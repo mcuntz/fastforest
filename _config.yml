@@ -1,0 +1,23 @@
+# Site settings
+title: FastForest
+description: >
+  Home of the group FastForest of the UMR Silva at INRAE Grand Est - Nancy, France
+tags: >
+  Matthias Cuntz, Emilie Joetzjer, scientist, model, FR-Hes, CO2, carbon, water, carbon, climate, vegetation, ecosystem, ecophysiology
+baseurl: ""
+url: "https://fastforest.github.io/"
+
+author:
+  fullname: Matthias Cuntz
+  github: mcuntz
+  email: matthias.cuntz@inrae.fr
+  googlescholar: https://scholar.google.com.ph/citations?user=s93VuhMAAAAJ
+
+# Syntax highlighting
+highlightstyle: 'default'
+styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.light, atelier-dune.dark, atelier-dune.light, atelier-estuary.dark, atelier-estuary.light, atelier-forest.dark, atelier-forest.light, atelier-heath.dark, atelier-heath.light, atelier-lakeside.dark, atelier-lakeside.light, atelier-plateau.dark, atelier-plateau.light, atelier-savanna.dark, atelier-savanna.light, atelier-seaside.dark, atelier-seaside.light, atelier-sulphurpool.dark, atelier-sulphurpool.light, brown_paper, codepen-embed, color-brewer, dark, darkula, default, docco, far, foundation, github, github-gist, googlecode, grayscale, hopscotch, hybrid, idea, ir_black, kimbie.dark, kimbie.light, magula, mono-blue, monokai, monokai_sublime, obsidian, paraiso.dark, paraiso.light, pojoaque, railscast, rainbow, school_book, solarized_dark, solarized_light, styles_list.txt, sunburst, tomorrow, tomorrow-night-blue, tomorrow-night-bright, tomorrow-night, tomorrow-night-eightie, v, xcode, zenburn]
+
+
+# Build settings
+highlighter: null
+markdown: kramdown
