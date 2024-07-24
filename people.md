@@ -1,7 +1,6 @@
 ---
 layout: page
-title:
-subtitle:
+title: People
 ---
 
 ### Research group
@@ -12,8 +11,8 @@ Matthias Cuntz, Directeur de Recherche.
 
 Matthias ... 
 
-<a href="mailto:matthias.cuntz@inrae.fr" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
-<a href="https://scholar.google.com.ph/citations?user=s93VuhMAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+<a href="mailto:matthias.cuntz@inrae.fr">E-Mail</a>&nbsp;&nbsp;&nbsp;
+<a href="https://scholar.google.com.ph/citations?user=s93VuhMAAAAJ">Google scholar</a>
 
 <p>&nbsp;</p>
 
@@ -24,6 +23,6 @@ Matthias ...
 <p>&nbsp;</p>
 
 
-## Alumni
+### Alumni
 
 ...
