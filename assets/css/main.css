@@ -1,17 +1,18 @@
 @charset "UTF-8";
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+@import url(https://fonts.googleapis.com/css?family=Inter:300italic,700italic,300,700);
 
+/* Lato "Open Sans" Inter */
 
 /* =Base *//*************************************************************/
   body {
     /*font-family: 'Quicksand', sans-serif;*/
-    font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font:14px/1.5 Inter, Helvetica, Arial, sans-serif;
     font-size: 100%;
-    color: #012;
-    background-color: #FFF; }
+    color: #000000;
+    background-color: #FFFFFF; }
 
   a {
-    color: #57A;
+    color: #5577AA;
     font-weight: bold;
     text-decoration: none; }
 
@@ -46,7 +47,7 @@
       font-weight: 400; }
 
   strong {
-    color: #16a085; }
+    color: #2255AA; }
 
   .wrapper {
     max-width: 800px;
@@ -62,7 +63,7 @@
   .logo {
     font-size: 300%;
     font-weight: 700;
-    color: #16a085;
+    color: #2255AA;
     display: block; }
 
   .menu {
