@@ -5,8 +5,9 @@ title: Publications
 
 ### Matthias
 
-A full list of Matthias' publications can be found at 
-<a href="https://scholar.google.com.ph/citations?user=s93VuhMAAAAJ">Google scholar</a>.
+A full list of people's  publications can be found on Google scholar: 
+<a href="https://scholar.google.com.ph/citations?user=s93VuhMAAAAJ">Matthias</a>, 
+<a href="https://scholar.google.fr/citations?user=HbGvaIIAAAAJ">Emilie</a>.
 
 Some selected publications are:
 
