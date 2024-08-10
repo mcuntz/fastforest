@@ -5,7 +5,7 @@ title: People
 
 ### Research group
 
-<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/Matthias_Cuntz-LaReunion_Callas.jpg"/>
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="images/Matthias_Cuntz-LaReunion_Callas.jpg"/>
 
 Matthias Cuntz, Directeur de Recherche.
 

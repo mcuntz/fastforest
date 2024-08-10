@@ -1,0 +1,8 @@
+<link rel="stylesheet" href="{{ "/css/normalize.css" | prepend: site.baseurl }}">
+<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+{% if site.styles contains site.highlightstyle %}
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/highlight/styles/{{ site.highlightstyle }}.css">
+{% else %}
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/highlight/styles/agate.css">
+{% endif %}
+<link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">

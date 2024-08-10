@@ -1,27 +1,29 @@
 <header class="header">
-<div class="navigation">
-<a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
-<ul class="menu">
-<li class="menu__entry"><a href="{{ '/' | prepend: site.baseurl }}"">Home</a></li>
-<li class="menu__entry"><a href="{{ '/people' | prepend: site.baseurl }}">People</a></li>
-<li class="menu__entry"><a href="{{ '/publications' | prepend: site.baseurl }}">Publications</a></li>
+
+  <div class="navigation">
+    <a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
+    <ul class="menu">
+      <li class="menu__entry"><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
+      <li class="menu__entry"><a href="{{ '/people' | prepend: site.baseurl }}">People</a></li>
+      <li class="menu__entry"><a href="{{ '/projects' | prepend: site.baseurl }}">Projects</a></li>
+      <li class="menu__entry"><a href="{{ '/FR-Hes' | prepend: site.baseurl }}">FR-Hes</a></li>
+      <li class="menu__entry"><a href="{{ '/publications' | prepend: site.baseurl }}">Publications</a></li>
+    </ul>
+  </div>
 
 <!--
-</ul>
-</div>
-<ul>
-{% if site.author.email %}
-<a href="mailto:{{ site.author.email }}">E-Mail</a>
-{% endif %}
-{% if site.author.github %}
-<a href="https://github.com/{{ site.author.github }}">Github</a>
-{% endif %}
-{% if site.author.twitter %}
-<a href="https://twitter.com/{{ site.author.twitter }}">Twitter</a>
-{% endif %}
-
-<a href="https://scholar.google.com.ph/citations?user=s93VuhMAAAAJ">Google Scholar</a>
+  <ul>
+    {% if site.author.email %}
+      <a href="mailto:{{ site.author.email }}">E-Mail</a>
+    {% endif %}
+    {% if site.author.github %}
+      <a href="https://github.com/{{ site.author.github }}">Github</a>
+    {% endif %}
+    {% if site.author.twitter %}
+      <a href="https://twitter.com/{{ site.author.twitter }}">Twitter</a>
+    {% endif %}
+    <a href="https://scholar.google.com.ph/citations?user=s93VuhMAAAAJ">Google Scholar</a>
+  </ul>
 -->
 
-</ul>
 </header>
