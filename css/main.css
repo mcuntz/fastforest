@@ -81,14 +81,14 @@ strong {
     padding: 0px;
     list-style-type: none; }
 
-.menu__entry {
+.menu_entry {
     display: inline-block;
     margin-right: 35px; }
 
-.menu__entry:last-child {
+.menu_entry:last-child {
     margin-right: 0px; }
 
-.menu__entry a {
+.menu_entry a {
     font-weight: 400; }
 
 .social-links {
@@ -97,20 +97,20 @@ strong {
     color: #5577AA;
     list-style-type: none; }
 
-.social-links__entry {
+.social-links_entry {
     display: inline-block;
     margin-left: 10px; }
 
 /* Titles */
 .page-title {
-    margin: 30px auto;
+    margin: 21px auto;
     text-align: center; }
 
-.page-title__text {
+.page-title_text {
     font-weight: 700;
-    font-size: 150%; }
+    font-size: 100%; }
 
-.page-title__subtitle {
+.page-title_subtitle {
     font-weight: 400;
     font-size: 75%;
     color: #828282; }
@@ -121,11 +121,11 @@ strong {
     text-align: center;
     line-height: 24px; }
 
-.about__devider {
+.about_devider {
     font-size: 100%;
     letter-spacing: 9.09px; }
 
-.about__text {
+.about_text {
     font-size: 100%; }
 
 .center-text {
@@ -187,19 +187,19 @@ strong {
 	margin-top: 10px;
 	margin-bottom: 30px; }
 
-    .page-title__text {
+    .page-title_text {
 	font-size: 150%; }
 
-    .page-title__subtitle {
+    .page-title_subtitle {
 	font-size: 65%; }
 
-    .post-teaser__title {
+    .post-teaser_title {
 	font-size: 150%;
 	display: block;
 	text-align: center;
 	width: 100%; }
 
-    .post-teaser__date {
+    .post-teaser_date {
 	font-size: 100%;
 	margin-top: 10px;
 	float: none;

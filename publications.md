@@ -3,15 +3,13 @@ layout: page
 title: Publications
 ---
 
-### Matthias
-
 A full list of people's  publications can be found on Google scholar: 
 <a href="https://scholar.google.com.ph/citations?user=s93VuhMAAAAJ">Matthias</a>, 
 <a href="https://scholar.google.fr/citations?user=HbGvaIIAAAAJ">Emilie</a>.
 
 Some selected publications are:
 
-<ol reversed>
+<!-- <ol reversed> -->
 
 <li><p>Knauer J, <b>Cuntz M</b>, Smith B, Canadell JG, Medlyn BE, Bennett AC, Caldararu S, and Haverd V (2023) Higher global gross primary productivity under future climate with more advanced representations of photosynthesis, <i>Science Advances</i> 9(46), eadh9444, <a href="https://doi.org/10.1126/sciadv.adh9444">doi:10.1126/sciadv.adh9444</a></p></li>
 
@@ -49,4 +47,4 @@ Some selected publications are:
 
 <li><p><b>Cuntz M</b>, Ciais P, Hoffmann G, and Knorr W (2003) A comprehensive global three-dimensional model of δ<sup>18</sup>O in atmospheric CO<sub>2</sub>, 1. Validation of surface processes, <i>Journal of Geophysical Research</i> 108(D17), 4527</p></li>
 
-</ol>
+<!-- </ol> -->

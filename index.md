@@ -1,7 +1,5 @@
 ---
 layout: page
-sitemap:
-priority: 0.9
 ---
 
 <div class="floated_img">
