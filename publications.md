@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: standard_page
 title: Publications
 ---
 
