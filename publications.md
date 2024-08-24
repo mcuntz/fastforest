@@ -4,8 +4,8 @@ title: Publications
 ---
 
 A full list of people's  publications can be found on Google scholar: 
-<a href="https://scholar.google.com.ph/citations?user=s93VuhMAAAAJ">Matthias</a>, 
-<a href="https://scholar.google.fr/citations?user=HbGvaIIAAAAJ">Emilie</a>.
+<a href="https://scholar.google.com/citations?user=s93VuhMAAAAJ">Matthias</a>, 
+<a href="https://scholar.google.com/citations?user=HbGvaIIAAAAJ">Emilie</a>.
 
 Some selected publications are:
 
