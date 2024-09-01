@@ -9,10 +9,10 @@ body {
     font: 14px/1.5 Inter, Helvetica, Arial, sans-serif;
     font-size: 100%;
     color: #000000;
-    background-color: #FFFFFF; }
+    background-color: #ffffff; }
 
 a {
-    color: #5577AA;
+    color: #5577aa;
     font-weight: bold;
     text-decoration: none; }
 
@@ -54,7 +54,7 @@ blockquote p {
     font-weight: 400; }
 
 strong {
-    color: #2255AA; }
+    color: #2255aa; }
 
 .wrapper {
     max-width: 800px;
@@ -70,11 +70,11 @@ strong {
 .logo {
     font-size: 300%;
     font-weight: 700;
-    color: #2255AA;
+    color: #2255aa;
     display: block; }
 
 .menu {
-    color: #5577AA;
+    color: #5577aa;
     font-size: 110%;
     margin: 0px;
     margin-top: 6px;
@@ -94,7 +94,7 @@ strong {
 .social-links {
     float: right;
     font-size: 120%;
-    color: #5577AA;
+    color: #5577aa;
     list-style-type: none; }
 
 .social-links_entry {
@@ -132,24 +132,6 @@ strong {
     text-align: center;
 }
 
-/* Page navigation */
-.PageNavigation {
-    display: block;
-    width: auto;
-    overflow: hidden;
-}
-
-.PageNavigation a {
-    display: block;
-    width: 50%;
-    float: left;
-    margin: 1em 0;
-}
-
-.PageNavigation .next {
-    text-align: right;
-}
-
 /* Main Page */
 #about-img {
     border-radius: 13%;
@@ -173,8 +155,7 @@ strong {
 	width: 90%;
 	margin: 15px auto; }
 
-    .navigation,
-    .social-links {
+    .nav, .navigation, .social-links {
 	display: block;
 	text-align: center;
 	width: 100%; }
@@ -212,3 +193,60 @@ strong {
 /* Custom */
 .go-home {
     text-align: center; }
+
+/*  https://dev.to/luwadev/how-to-create-a-dropdown-menu-with-html-and-css-20b2 */
+.nav ul {
+    color: #5577aa;
+    font-size: 110%;
+    list-style: none;
+    margin: 0px;
+    margin-top: 6px;
+    padding: 0px;
+}
+
+.nav ul li {
+    display: inline-block;
+    position: relative;
+}
+
+.nav ul li a {
+    color: #5577aa;
+    display: block;
+    padding: 6px 20px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.nav ul li a:hover {
+    background-color: #f8f8f8;
+}
+
+.nav ul li ul {
+    display: none;
+    position: absolute;
+    left: 10px;
+    background-color: #ffffff;
+    color: #5577aa;
+    font-size: 90%;
+}
+
+.nav ul li:hover ul {
+    display: block;
+}
+
+.nav ul li ul li {
+    display: block;
+    white-space: nowrap;
+}
+
+.nav ul li ul li a {
+    color: #5577aa;
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.nav ul li ul li a:hover {
+    background-color: #f5f5f5;
+}

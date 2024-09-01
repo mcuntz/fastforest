@@ -1,6 +1,24 @@
 <header class="header">
 
-  <div class="navigation">
+</header>
+
+<div class="nav">
+  <a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
+  <ul>
+    <li><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
+    <li><a href="{{ '/people' | prepend: site.baseurl }}">People</a>
+      <ul>
+	<li><a href="{{ '/matthias_cuntz' | prepend: site.baseurl }}">Matthias Cuntz</a></li>
+      </ul>
+    </li>
+    <li><a href="{{ '/projects' | prepend: site.baseurl }}">Projects</a></li>
+    <li><a href="{{ '/FR-Hes' | prepend: site.baseurl }}">FR-Hes</a></li>
+    <li><a href="{{ '/publications' | prepend: site.baseurl }}">Publications</a></li>
+  </ul>
+</div>
+
+<!--
+  <nav class="navigation">
     <a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
     <ul class="menu">
       <li class="menu_entry"><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
@@ -9,7 +27,8 @@
       <li class="menu_entry"><a href="{{ '/FR-Hes' | prepend: site.baseurl }}">FR-Hes</a></li>
       <li class="menu_entry"><a href="{{ '/publications' | prepend: site.baseurl }}">Publications</a></li>
     </ul>
-  </div>
+  </nav>
+-->
 
 <!--
   <ul>
@@ -26,4 +45,4 @@
   </ul>
 -->
 
-</header>
+<!-- </header> -->
