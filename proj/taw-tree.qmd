@@ -7,7 +7,7 @@
 
 **Partners**: ESE (Université Paris-Saclay), METIS (Université Paris-Saclay), URFM (INRAE Avignon), CEFE (CNRS Montpellier), Silva (INRAE Nancy), GEOPS (Université Paris-Saclay). Coordinated by Nicolas Delpierre (ESE)
 
-![](images/taw-tree.png){fig-align="center" width="100%"}
+![](/images/taw-tree.png){fig-align="center" width="100%"}
 
 Forests cover one-third of the Earth's land area and are central in the global carbon and water cycles. They contribute to mitigating ongoing climate change by absorbing 25% of the annual anthropogenic CO~2~ emissions1. Forests also play an important role in the distribution of precipitation and continental water dynamics, contributing about 60% of land evapotranspiration. Yet the future of forests is uncertain in the current context of climate change4. This is because trees are sessile organisms that depend on soil reserves to access water. With climate change, the world's forests, like all terrestrial ecosystems, are facing an increase in atmospheric evaporative demand. In addition, in western central Europe and the Mediterranean area, climate models predict a likely increase in edaphic droughts in the coming decades. The response of forests to increased water deficit will depend largely on their access to soil water, which is to date very poorly characterized. Therefore, we need comprehensive approaches and interdisciplinary research to take into account the hydrological and hydrogeological parameters of the critical zone in the response of forests to water deficit.
 

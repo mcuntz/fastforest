@@ -2,12 +2,13 @@
 ---
 
 ## Matthias Cuntz
+
 <!-- <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="images/Matthias_Cuntz-LaReunion_Callas.jpg"/> {layout-ncol=2} -->
 
 ::: {layout="[[30,70]]"}
 
 ::: {#first-column}
-![](images/Matthias_Cuntz-LaReunion_Callas.jpg){fig-align="left" width="300"}
+![](/images/Matthias_Cuntz-LaReunion_Callas.jpg){fig-align="left" width="300"}
 :::
 
 ::: {#second-column}

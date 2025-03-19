@@ -7,7 +7,7 @@
 
 **Partners**: Silva (INRAE Nancy), CNRM (Meteo France, Toulouse). Coordinated by Emilie Joetzjer (Silva)
 
-<!-- ![](images/taw-tree.png){fig-align="center" width="100%"} -->
+<!-- ![](/images/taw-tree.png){fig-align="center" width="100%"} -->
 
 Climate change is threatening forests through increasing drought events and heat waves. These stresses increase evaporative demand and reduce soil water availability, leading to decreased carbon assimilation and higher tree mortality1, 2. Current land surface models, embedded within Earth system models, poorly capture forest responses to drought 3, resulting in a large spread of responses between models to estimate the future of forests and their carbon sink capacity.
 

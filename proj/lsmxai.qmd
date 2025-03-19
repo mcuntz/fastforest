@@ -7,7 +7,7 @@
 
 **Partners**: IECL (Université de Lorraine, Nancy), Silva (INRAE Nancy). Coordinated by Marianne Clausel (IECL) and Matthias Cuntz (Silva)
 
-![](images/lsmxai.png){fig-align="center" width="600"}
+![](/images/lsmxai.png){fig-align="center" width="600"}
 
 Plants are using CO~2~ to grow. Rising CO~2~ concentrations due to human emissions should hence lead to enhanced plant productivity, counteracting partly future climate change. Plants also die and decompose so that ecosystems also respire CO~2~. Only a tiny fraction of about 2% of gross plant productivity (GPP) finally stays in the ecosystem. It is this tiny fraction that is "seen" by the atmosphere, which integrates all sources (e.g. human emissions and respiration, Resp) and sinks (e.g. GPP). Small changes of the gross fluxes GPP or Resp can hence lead to very large variations in atmospheric CO~2~ and thus its radiative forcing.
 

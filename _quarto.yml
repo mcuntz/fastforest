@@ -9,9 +9,11 @@ lang: en
 # Set website config and logos
 website:
   title: "FastForest"
+  #  sidebar: not nice
+  #    contents: auto
   ## Navbar menu
   navbar:
-    logo:  images/fastforest_logo.png
+    logo: /images/fastforest_logo.png
     left:
       - text: Home
         icon: house-door
@@ -20,25 +22,30 @@ website:
         icon: puzzle
         menu:
           - text: "PHydrauCC"
-            href: phydraucc.qmd
+            href: proj/phydraucc.qmd
           - text: "SlowStom"
-            href: slowstom.qmd
+            href: proj/slowstom.qmd
           - text: "TAW-tree"
-            href: taw-tree.qmd
+            href: proj/taw-tree.qmd
           - text: "LSMxAI"
-            href: lsmxai.qmd
+            href: proj/lsmxai.qmd
           - text: "DroughtForC"
-            href: droughtforc.qmd
+            href: proj/droughtforc.qmd
           - text: "EuropeDrought"
-            href: europedrought.qmd
+            href: proj/europedrought.qmd
       - text: People
+        #href: people/index.qmd
         icon: people
         menu:
           - text: "Matthias Cuntz"
-            href: matthias_cuntz.qmd
+            href: people/matthias_cuntz.qmd
+          - text: "Gabriel Destouet"
+            href: people/gabriel_destouet.qmd
+          - text: "Emilie Joetzjer"
+            href: people/emilie_joetzjer.qmd
       - text: FR-Hes
         icon: tree
-        href: fr-hes.qmd
+        href: fr-hes/index.qmd
     right:
       - text: "Source"
         icon: github
@@ -53,13 +60,12 @@ website:
   ## Footer
   page-footer:
     left: |
-        [![](images/Republique_Francaise_RVB.png){width=100px}![](images/Logo-INRAE_Transparent.png){width=100px}](https://www.inrae.fr/)
+      [![](/images/Republique_Francaise_RVB.png){width=100px}![](/images/Logo-INRAE_Transparent.png){width=100px}](https://www.inrae.fr/)
     right: |
-        [![](images/Logo_UMR_Silva-petit.png){width=100px}](https://silva.nancy.hub.inrae.fr/)
-    center: 
+      [![](/images/Logo_UMR_Silva-petit.png){width=100px}](https://silva.nancy.hub.inrae.fr/)
+    center:
       - text: LEGAL NOTICE
         icon: book
         href: legal_notice.qmd
   ## Margin
   margin-footer: |
-    

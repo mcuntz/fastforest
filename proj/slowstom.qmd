@@ -7,7 +7,7 @@
 
 **Partners**: Groups FARE and ForeSTree of Silva (INRAE Nancy). Coordinated by Emilie Joetzjer (ForeSTree).
 
-![](images/McAusland_et_al_2016-fig_1.png){fig-align="center" width="600"}
+![](/images/McAusland_et_al_2016-fig_1.png){fig-align="center" width="600"}
 
 Plants constantly adapt photosynthesis and stomatal conductance to prevailing environmental conditions. Photosynthesis can adjust in seconds to changes in irradiance while stomatal conductance responds lagged by a few minutes up to almost an hour. There is a fundamental difference between shade flecks (sudden decrease in irradiance) and sun flecks (sudden increase of irradiance). In the former case, stomata are open, CO~2~ is (mostly) not limiting, and photosynthesis can immediately respond to the drop in irradiance. In the latter case, stomata are more closed, limiting the supply of CO~2~ to photosynthesis so that it also shows a lagged response to increased irradiance, even though still faster than stomatal conductance (cf. figure on title page). This manoeuvre between coupled and uncoupled situations happens continuously on partly overcast days with intermittent light conditions.
 

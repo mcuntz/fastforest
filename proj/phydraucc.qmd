@@ -7,7 +7,7 @@
 
 **Partners**: Silva (INRAE Nancy), ISPA (INRAE Bordeaux). Coordinated by Matthias Cuntz (Silva)
 
-![](images/phydraucc_2021.png){fig-align="center" width="100%"}
+![](/images/phydraucc_2021.png){fig-align="center" width="100%"}
 
 We propose to establish a strong link between wood anatomy and hydraulic traits as well as their changes with increasing atmospheric CO~2~ concentrations. We will examine whether elevated CO~2~ alters the anatomical characteristics of trees and identify changes in wood structure related to key plant hydraulic traits (vulnerability to cavitation, conductivity, and water storage) from roots to branches and leaves and across a range of key woody species. By incorporating these results in mechanistic soil-plant-atmosphere and large-scale vegetation models, we will ascertain whether the interplay of tree-ring formation and hydraulic functioning can lead to strong ecosystem responses to elevated CO~2~, warming and drought that can be carried over into future years. This will help to investigate the consequences of such tight bonds of water and carbon relations on the resistance and resilience of trees under future climate change, and to increase our ability to forecast future environmental impacts on tree function and carbon sequestration potential.
 

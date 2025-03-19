@@ -7,7 +7,7 @@
 
 **Partners**: CEFE (CNRS Montpellier), IMBE (Université Aix-Marseille), ESE (Université Paris-Saclay), BEF (INRAE Nancy), URFM (INRAE Avignon), RECOVER (INRAE Aix-Marseille), ISPA (INRAE Bordeaux), Silva (INRAE Nancy), Eco&Sols (CIRAD Montpellier). Coordinated by Jean-Marc LIMOUSIN (CEFE)
 
-![](images/droughtforc.png){fig-align="center" width="100%"}
+![](/images/droughtforc.png){fig-align="center" width="100%"}
 
 Forests are both strongly impacted by the on-going climate change and at the heart of the mitigation strategies, thereby urging the scientists and forest managers to better anticipate how the forest carbon cycle will be affected under future climate. In Drought-ForC, we identify three main scientific issues that are currently limiting our understanding of climate change effects on forest’s carbon sequestration. The first one relates to the allocation of carbon among the different tree organs and the link between carbon photosynthetic assimilation and sequestration in perennial tree biomass. The second one relates to the degradation of organic matter and the sequestration of soil organic carbon under the antagonist effects of warming and soil drying. The third issue relates to the interactive effects of water and nutrient limitations for tree growth and forest functioning.
 
