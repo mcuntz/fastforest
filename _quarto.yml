@@ -1,0 +1,65 @@
+project:
+  type: inrae-project-website
+  output-dir: docs
+  resources: images
+
+# Set language
+lang: en
+
+# Set website config and logos
+website:
+  title: "FastForest"
+  ## Navbar menu
+  navbar:
+    logo:  images/fastforest_logo.png
+    left:
+      - text: Home
+        icon: house-door
+        href: index.qmd
+      - text: Projects
+        icon: puzzle
+        menu:
+          - text: "PHydrauCC"
+            href: phydraucc.qmd
+          - text: "SlowStom"
+            href: slowstom.qmd
+          - text: "TAW-tree"
+            href: taw-tree.qmd
+          - text: "LSMxAI"
+            href: lsmxai.qmd
+          - text: "DroughtForC"
+            href: droughtforc.qmd
+          - text: "EuropeDrought"
+            href: europedrought.qmd
+      - text: People
+        icon: people
+        menu:
+          - text: "Matthias Cuntz"
+            href: matthias_cuntz.qmd
+      - text: FR-Hes
+        icon: tree
+        href: fr-hes.qmd
+    right:
+      - text: "Source"
+        icon: github
+        href: https://www.github.com/mcuntz/mcuntz.github.io
+      - text: "Other links"
+        icon: globe
+        menu:
+          - text: inrae-project-website
+            href: https://github.com/SebastienBoutry/inrae-project-website
+          - text: Quarto
+            href: https://quarto.org
+  ## Footer
+  page-footer:
+    left: |
+        [![](images/Republique_Francaise_RVB.png){width=100px}![](images/Logo-INRAE_Transparent.png){width=100px}](https://www.inrae.fr/)
+    right: |
+        [![](images/Logo_UMR_Silva-petit.png){width=100px}](https://silva.nancy.hub.inrae.fr/)
+    center: 
+      - text: LEGAL NOTICE
+        icon: book
+        href: legal_notice.qmd
+  ## Margin
+  margin-footer: |
+    

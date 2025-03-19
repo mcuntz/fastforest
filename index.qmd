@@ -1,0 +1,12 @@
+---
+---
+
+# FastForest
+
+![](images/run_forest_run_www.tenstickers-indonesia.com.png){fig-align="center" width="400"}
+
+The FastForest group measures and models energy, water, and carbon fluxes between terrestrial ecosystems and the atmosphere. We are running the [ICOS](https://www.icos-cp.eu) class 1 ecosystem site [FR-Hes](fr-hes.qmd) with a eddy covariance flux tower and a ton of ancillary measurements. We are co-developping the ecosystem model [MuSICA](https://ecofun.ispa.bordeaux.inrae.fr/index.php/musica-model/) as well as the global land surface models [CABLE-POP](https://cable.readthedocs.io/en/latest/) and [ISBA](http://www.umr-cnrm.fr/spip.php?article146).
+
+We develop innovative methods to process high-resolution flux data and use them to understand [ecosystem processes](europedrought.qmd). We are currently investigating the coordination between [photosynthesis and stomatal conductance](slowstom.qmd), [plants access to water sources](taw-tree.qmd), and the link between soil water and stomata through [water transport within trees](phydraucc.qmd) (plant hydraulics). We use data from our eddy covariance site [FR-Hes](fr-hes.qmd), from [other ICOS ecosystem sites][europedrought.qmd], and from FLUXNET.
+
+We are testing ideas in the ecosystem model [MuSICA](https://ecofun.ispa.bordeaux.inrae.fr/index.php/musica-model/) and their large-scale consequences with the global land surface models [CABLE-POP](https://cable.readthedocs.io/en/latest/) and [ISBA](http://www.umr-cnrm.fr/spip.php?article146). We are also looking into using [explainable machine learning to improve process representation](lsmxai.qmd) in the vegetation models.

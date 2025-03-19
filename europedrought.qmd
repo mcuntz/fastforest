@@ -1,0 +1,18 @@
+---
+---
+
+## European forests responses to drought
+
+**Funding**: Meteo France and [TAW-tree](taw-tree.qmd)
+
+**Partners**: Silva (INRAE Nancy), CNRM (Meteo France, Toulouse). Coordinated by Emilie Joetzjer (Silva)
+
+<!-- ![](images/taw-tree.png){fig-align="center" width="100%"} -->
+
+Climate change is threatening forests through increasing drought events and heat waves. These stresses increase evaporative demand and reduce soil water availability, leading to decreased carbon assimilation and higher tree mortality1, 2. Current land surface models, embedded within Earth system models, poorly capture forest responses to drought 3, resulting in a large spread of responses between models to estimate the future of forests and their carbon sink capacity.
+
+This PhD project aims to address two key challenges of modelling drought impacts on forests: 1. exploring trees' ability to reach deep water sources in soils and 2. revisit the effects that water stress has on different parts of the vegetation in land surface models. The PhD will assess the sensitivity of forest functioning and vulnerability under future climate conditions.
+
+The ISBA-CTRIP land surface model will be evaluated at local and regional scales using various observational and remote sensing datasets, 4. The PhD is part of the ANR project TAW-Tree and will involve close collaboration with other researchers of the project, providing observations and comparing model sensitivity to various estimates of Total Available Water (TAW) at local and regional scales. ISBA-CTRIP uses a simple function to link soil moisture deficit with carbon and water fluxes.
+
+This PHD aims at exploring and implementing process-based approaches of root water uptake5, as well as drought impacts on carbon and water fluxes using, for example, an explicit hydraulic architecture of trees. The goal is to enhance the ISBA-CTRIP model for a more accurate description of drought impacts on European forests.

@@ -1,0 +1,32 @@
+---
+---
+
+## PHydrauCC – Plant Hydraulic Functioning in face of Climate Change
+
+**Funding**: French National Research Agency (ANR) - ANR-21-CE02-0033
+
+**Partners**: Silva (INRAE Nancy), ISPA (INRAE Bordeaux). Coordinated by Matthias Cuntz (Silva)
+
+![](images/phydraucc_2021.png){fig-align="center" width="100%"}
+
+We propose to establish a strong link between wood anatomy and hydraulic traits as well as their changes with increasing atmospheric CO~2~ concentrations. We will examine whether elevated CO~2~ alters the anatomical characteristics of trees and identify changes in wood structure related to key plant hydraulic traits (vulnerability to cavitation, conductivity, and water storage) from roots to branches and leaves and across a range of key woody species. By incorporating these results in mechanistic soil-plant-atmosphere and large-scale vegetation models, we will ascertain whether the interplay of tree-ring formation and hydraulic functioning can lead to strong ecosystem responses to elevated CO~2~, warming and drought that can be carried over into future years. This will help to investigate the consequences of such tight bonds of water and carbon relations on the resistance and resilience of trees under future climate change, and to increase our ability to forecast future environmental impacts on tree function and carbon sequestration potential.
+
+The specific objectives and the associated hypotheses (a-j) of PHydrauCC are:
+
+1. Assemble the first dataset of changes of hydraulic traits and wood anatomy under elevated CO~2~ from several Free-Air CO~2~ Enrichment (FACE) sites (Table 1). Examine whether elevated CO~2~ will alter the structural (wood anatomy, tree-ring density, early- and late-wood proportion) and physiological (conductivity, capacitance, resistance to embolism) characteristics of trees across a range of species. Link the measured hydraulic traits with detailed observations on xylem anatomy. (Work package 1)
+   a) Elevated CO~2~ leads to enhanced photosynthesis and increased leaf area. To acclimate, elevated CO~2~ will affect the radial growth rate of trees characterized by a larger sapwood area to supply water, which will increase water storage capacity in all species.
+   b) Plants increase the fraction of carbon allocated to roots under elevated CO~2~. Therefore, elevated CO~2~ will affect the resistance to embolism more in roots than in branches. However, trajectories of xylem safety vs. efficiency trade-offs along the root-to-branch continuum will differ in relation to species’ overall resistance to drought.
+   c) Species-specific tree-ring structure changes in anatomical traits with elevated CO~2~ influence the probability of loss of conductivity and its subsequent effects on plant’s hydraulic capabilities, i.e. water storage capacity and whole root-to-leaf conductance.
+
+2. Use the observed changes from objective 1 to determine whether differences in tree-ring structure and hydraulic traits can be used to predict different strategies of stomatal regulation, water use, carbon assimilation, and tree growth during and after heat waves and droughts. We propose to improve the multi-layer hydraulically-driven ecosystem model MuSICA with a newly-developed model of tree ring formation, using partially coordinated hydraulic traits. (Work package 2)
+   d) Partly coordinated hydraulic traits lead to different ecosystem responses to drought than fully coordinated (combined) hydraulic traits.
+   e) The changes in plant hydraulic capacity and capacitance will allow plants growing under elevated CO~2~ to be less affected by reduced soil moisture and increased temperature than plants growing under current CO~2~, potentially maintaining high carbon assimilation under drought and heat waves.
+   f) Combining plant hydraulics with wood growth depending on both water and sugar availability leads to pronounced legacy effects after droughts.
+   g) The diverse responses of European forest sites to drought can be explained by the combined plant hydraulics-tree-ring formation model.
+
+3. Assess forest resilience to future climate change on continental scale under the dichotomy of the very different hydraulic strategies of conifers and broadleaved trees. Develop a parsimonious version of the hydraulic and tree-ring formation model suitable for large-scale vegetation models and incorporate it in the land surface model Cable-POP. (Work package 3)
+   h) Droughts and heat waves will have more severe effects on plant resistance and resilience in an explicit growth-hydraulics model than in a model based on empirical functions of water limitations.
+   i) Describing partly coordinated hydraulic traits and wood formation in land surface models will improve forest’s responses to droughts and heat waves.
+   j) Direct and legacy effects in the combined model of tree-ring formation and plant hydraulics will decrease estimates of the land carbon sink in mid and high latitude forests under climate change scenarios.
+
+We expect that the new combined model of tree-ring formation and plant hydraulics, developed with functional links and data from the FACE experiments, will display hysteresis effects in plant water transport wit changing soil water conditions and elevated temperatures, and that it will show legacy effects in plant growth for several years after major drought and heat wave events. The effects should depend on plant and wood type and should manifest differently in trees with large xylem conduits (i.e. vessels: broadleaved trees) and in trees with small conduits (tracheids: conifers). Hysteresis and legacy effects are phenomena that are absent from current vegetation models. We also expect that the hydraulic traits, i.e. conductance, capacitance, and vulnerability to embolism, might not be enough to explain the strong responses to drought of some broadleaved species, but that different strategies such as for example leaf shedding must be added. We will then evaluate drought-related risks under climate change in temperate and boral forests, with a special interest in the different hydraulic strategies of broadleaved angiosperms compared to needle-leaved gymnosperms.

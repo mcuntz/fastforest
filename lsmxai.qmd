@@ -1,0 +1,16 @@
+---
+---
+
+## LSMxAI: Better projections of future climate change – using explainable AI to improve land surface models
+
+**Funding**: L'Institut des Mathématiques pour la Planète Terre (IMPT)
+
+**Partners**: IECL (Université de Lorraine, Nancy), Silva (INRAE Nancy). Coordinated by Marianne Clausel (IECL) and Matthias Cuntz (Silva)
+
+![](images/lsmxai.png){fig-align="center" width="600"}
+
+Plants are using CO~2~ to grow. Rising CO~2~ concentrations due to human emissions should hence lead to enhanced plant productivity, counteracting partly future climate change. Plants also die and decompose so that ecosystems also respire CO~2~. Only a tiny fraction of about 2% of gross plant productivity (GPP) finally stays in the ecosystem. It is this tiny fraction that is "seen" by the atmosphere, which integrates all sources (e.g. human emissions and respiration, Resp) and sinks (e.g. GPP). Small changes of the gross fluxes GPP or Resp can hence lead to very large variations in atmospheric CO~2~ and thus its radiative forcing.
+
+Land surface models (LSMs) encode our knowledge of the processes behind plant productivity GPP and respiration Resp, and are used in projections of future climate change. It is, however, inherently difficult to assess model parameters, for example, for the water and nutrient status at each point on Earth and on the large grid sizes used by the LSMs. But it is also not well known how the processes encoded in LSMs will develop with rising CO~2~ and under a changing climate. For example, large-scale experiments on the change of GPP with rising CO~2~ showed mixed results due to diverse water and nutrient effects. Current LSMs have thus chosen very different approaches to describe the change of GPP and they show consequently a large spread in projections of the land carbon sink in the coming century.
+
+Hence, we propose an innovative data-driven approach to provide in-depth informations about how processes can be improved in LSMs. Instead of building a traditional data-driven model for predicting the GPP, we will build a data-driven representation of the LSM that mirror its processes and their interactions, i.e. has the same causal structure. By adjusting the expressivity and the dependencies of the surrogate version of each process in the data-driven representation, we will not only inform developers of the LSM which process have predictive limitations but it will also hint on how the process should be improved. This should ultimately lead to improved land surface models and hence more robust projections of future climate change.
