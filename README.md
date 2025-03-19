@@ -1,4 +1,4 @@
-# Website of FastForest within UMR Silva of Universite Lorrane, AgroParisTech, INRA, Nancy, France
+# Website of the group FastForest within UMR Silva of Universite Lorrane, AgroParisTech, INRA, Nancy, France
 
 The website is published as: http://mcuntz.github.io/
 
