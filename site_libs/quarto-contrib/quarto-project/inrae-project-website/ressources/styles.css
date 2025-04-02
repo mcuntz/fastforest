@@ -9,8 +9,18 @@
     src: url("Linotype - AvenirNextLTPro-DemiCn.otf") format("opentype");
 };
 
+/* DOES NOT WORK, e.g. using var(--silva)
+/* :root { */
+/*     --inrae-mint: #00a3a6; */
+/*     --inrae-dark: #275662; */
+/*     --inrae-red: #ed6e6c; */
+/*     --inrae-yellow: #ead8a2; */
+/*     --silva: #84A349; */
+/*     --white: #ffffff; */
+/* } */
+
 .title {
-    color: #00a3a6;
+    color: #84A349;
     font-family: "Raleway";
     font-weight: bold;
 }
@@ -22,13 +32,13 @@ body {
 
 h1,h2,h3,h4,h5 {
     text-align: left;
-    color: #00a3a6;
+    color: #84A349;
     font-family: "Raleway";
     font-weight: bold;
 }
 
 .header-section-number {
-    color: #00a3a6;
+    color: #84A349;
 }
 
 /* Websites / navbar */
@@ -36,21 +46,21 @@ h1,h2,h3,h4,h5 {
 .navbar {
     border: 0px solid #275662;
     border-bottom: 5px solid #275662;
-    background-color: #00a3a6;
+    background-color: #84A349;
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
-    color: #ffffff;
+    color: white;
     background-color: #275662;
 }
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{
-    color: #ffffff;
+    color: white;
     background-color: #275662;
 }
 
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus{
-    color: #ffffff;
+    color: white;
     background-color: #275662;
 }
 
@@ -59,8 +69,8 @@ h1,h2,h3,h4,h5 {
 #quarto-sidebar,
 #quarto-content .sidebar-navigation {
     border: none !important;
-    color: #FFFFFF;
-    background-color: #00a3a6;
+    color: white;
+    background-color: #84A349;
 
     code {
         font-size: inherit;
@@ -72,12 +82,12 @@ h1,h2,h3,h4,h5 {
 
 	a,
 	.chapter-number {
-            color: #FFFFFF;
+            color: white;
 	}
 
 	a.active,
 	a:hover {
-            color: #FFFFFF;
+            color: white;
 	}
     }
 
@@ -85,7 +95,7 @@ h1,h2,h3,h4,h5 {
     .sidebar-item-section>.sidebar-item-container:first-child a.active,
     .sidebar-item-section>.sidebar-item-container:first-child a:hover {
 	font-weight: bold;  
-	color: #FFFFFF;
+	color: white;
 	background-color: transparent;
     }
 
