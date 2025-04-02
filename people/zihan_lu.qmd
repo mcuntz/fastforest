@@ -8,16 +8,16 @@
 ::: {layout="[[30,70]]"}
 
 ::: {#first-column}
-![](/images/IMG_5470.jpg.jpg){fig-align="left" width="300"}
+![](/images/Zihan_Lu.jpg){fig-align="left" width="300"}
 :::
 
 ::: {#second-column}
 **Zihan Lu**, post-doc.
 
-Zihan received her PhD in physical geography in Peking University, China. She joined in INRAE Grand-Est in April, 2024. She is a member of PHydrauCC project, and her main work includes (1) incorporate soil, root and plant hydraulic processes into CABLE-POP, (2) link the plant hydraulic trait with photosynthesis, (3) add legacy effect of drought on wood formation and water conductivity. In the end, the parsimonious version of the hydraulic model will be tested at site, regional and global scale.   
+Zihan received her PhD in physical geography in Peking University, China. She joined in INRAE Grand-Est in April, 2024. She is a member of PHydrauCC project, and her main work includes (1) incorporate soil, root and plant hydraulic processes into CABLE-POP, (2) link the plant hydraulic trait with photosynthesis, (3) add legacy effect of drought on wood formation and water conductivity. In the end, the parsimonious version of the hydraulic model will be tested at site, regional and global scale.
 :::
 
 :::
 
-[Personal page](zihan_lu.qmd) &nbsp; &nbsp; &nbsp;
+[Personal page](/people/zihan_lu.qmd) &nbsp; &nbsp; &nbsp;
 <a href="mailto:zihan.lu@inrae.fr">E-Mail</a> &nbsp; &nbsp; &nbsp;
