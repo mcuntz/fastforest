@@ -8,16 +8,16 @@ lang: en
 
 # Set website config and logos
 website:
-  title: "FastForest"
+  title: "FastForest / Home"
   #  sidebar: not nice
   #    contents: auto
   ## Navbar menu
   navbar:
     logo: /images/fastforest_logo.png
     left:
-      - text: Home
-        icon: house-door
-        href: index.qmd
+      # - text: Home
+      #   icon: house-door
+      #   href: index.qmd
       - text: Projects
         icon: puzzle
         menu:
