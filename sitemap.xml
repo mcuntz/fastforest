@@ -1,55 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mcuntz.github.io/people/gabriel_destouet.html</loc>
-    <lastmod>2025-04-02T13:38:33.985Z</lastmod>
+    <loc>https://mcuntz.github.io/people/matthias_cuntz.html</loc>
+    <lastmod>2025-05-04T22:26:14.566Z</lastmod>
   </url>
   <url>
     <loc>https://mcuntz.github.io/people/emilie_joetzjer.html</loc>
-    <lastmod>2025-04-02T13:38:33.985Z</lastmod>
+    <lastmod>2025-05-04T22:26:14.566Z</lastmod>
   </url>
   <url>
     <loc>https://mcuntz.github.io/fr-hes/index.html</loc>
-    <lastmod>2025-04-02T13:38:33.949Z</lastmod>
+    <lastmod>2025-05-04T22:26:14.529Z</lastmod>
   </url>
   <url>
-    <loc>https://mcuntz.github.io/proj/droughtforc.html</loc>
-    <lastmod>2025-04-02T13:38:33.986Z</lastmod>
+    <loc>https://mcuntz.github.io/projects/taw-tree.html</loc>
+    <lastmod>2025-05-04T22:26:14.567Z</lastmod>
   </url>
   <url>
-    <loc>https://mcuntz.github.io/proj/taw-tree.html</loc>
-    <lastmod>2025-04-02T13:38:33.986Z</lastmod>
+    <loc>https://mcuntz.github.io/projects/droughtforc.html</loc>
+    <lastmod>2025-05-04T22:26:14.566Z</lastmod>
   </url>
   <url>
-    <loc>https://mcuntz.github.io/proj/lsmxai.html</loc>
-    <lastmod>2025-04-02T13:38:33.986Z</lastmod>
+    <loc>https://mcuntz.github.io/projects/phydraucc.html</loc>
+    <lastmod>2025-05-04T22:26:14.566Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcuntz.github.io/projects/europedrought.html</loc>
+    <lastmod>2025-05-04T22:26:14.566Z</lastmod>
   </url>
   <url>
     <loc>https://mcuntz.github.io/legal_notice.html</loc>
-    <lastmod>2025-04-02T13:38:33.985Z</lastmod>
+    <lastmod>2025-05-04T22:26:14.566Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcuntz.github.io/projects/current.html</loc>
+    <lastmod>2025-05-04T22:26:14.566Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcuntz.github.io/projects/lsmxai.html</loc>
+    <lastmod>2025-05-04T22:26:14.566Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcuntz.github.io/projects/slowstom.html</loc>
+    <lastmod>2025-05-04T22:26:14.567Z</lastmod>
   </url>
   <url>
     <loc>https://mcuntz.github.io/index.html</loc>
-    <lastmod>2025-04-02T13:38:33.985Z</lastmod>
+    <lastmod>2025-05-04T22:26:14.566Z</lastmod>
   </url>
   <url>
-    <loc>https://mcuntz.github.io/proj/europedrought.html</loc>
-    <lastmod>2025-04-02T13:38:33.986Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcuntz.github.io/proj/slowstom.html</loc>
-    <lastmod>2025-04-02T13:38:33.986Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcuntz.github.io/proj/phydraucc.html</loc>
-    <lastmod>2025-04-02T13:38:33.986Z</lastmod>
+    <loc>https://mcuntz.github.io/people/gabriel_destouet.html</loc>
+    <lastmod>2025-05-04T22:26:14.566Z</lastmod>
   </url>
   <url>
     <loc>https://mcuntz.github.io/people/zihan_lu.html</loc>
-    <lastmod>2025-04-02T13:38:33.986Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcuntz.github.io/people/matthias_cuntz.html</loc>
-    <lastmod>2025-04-02T13:38:33.986Z</lastmod>
+    <lastmod>2025-05-04T22:26:14.566Z</lastmod>
   </url>
 </urlset>
