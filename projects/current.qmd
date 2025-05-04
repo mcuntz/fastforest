@@ -1,0 +1,40 @@
+---
+---
+
+## Current projects
+
+1. [PHydrauCC – Plant Hydraulic Functioning in face of Climate Change](phydraucc.qmd)
+
+   **Funding**: French National Research Agency (ANR) - ANR-21-CE02-0033
+
+   **Partners**: Silva (INRAE Nancy), ISPA (INRAE Bordeaux). Coordinated by Matthias Cuntz (Silva)
+
+2. [SlowStom](slowstom.qmd)
+
+   **Funding**: Laboratory of Excellence Advanced Research on the Biology of Tree and Forest Ecosystems (ARBRE; grant ANR-11-LABX-0002-01) and Université de Lorraine.
+
+   **Partners**: Groups FARE and ForeSTree of Silva (INRAE Nancy). Coordinated by Emilie Joetzjer (ForeSTree).
+
+3. [TAW-tree - Total Available Water to Tree: a key, missing parameter for assessing the vulnerability of forests in the face of climate change](taw-tree.qmd)
+
+   **Funding**: French National Research Agency (ANR)
+
+   **Partners**: ESE (Université Paris-Saclay), METIS (Université Paris-Saclay), URFM (INRAE Avignon), CEFE (CNRS Montpellier), Silva (INRAE Nancy), GEOPS (Université Paris-Saclay). Coordinated by Nicolas Delpierre (ESE)
+
+4. [LSMxAI: Better projections of future climate change – using explainable AI to improve land surface models](lsmxai.qmd)
+
+   **Funding**: L'Institut des Mathématiques pour la Planète Terre (IMPT)
+
+   **Partners**: IECL (Université de Lorraine, Nancy), Silva (INRAE Nancy). Coordinated by Marianne Clausel (IECL) and Matthias Cuntz (Silva)
+
+5. [Drought ForC: Drought impacts on carbon stocks and fluxes in forest ecosystems: experiments and modeling](droughtforc.qmd)
+
+   **Funding**: PEPR FairCarboN
+
+   **Partners**: CEFE (CNRS Montpellier), IMBE (Université Aix-Marseille), ESE (Université Paris-Saclay), BEF (INRAE Nancy), URFM (INRAE Avignon), RECOVER (INRAE Aix-Marseille), ISPA (INRAE Bordeaux), Silva (INRAE Nancy), Eco&Sols (CIRAD Montpellier). Coordinated by Jean-Marc LIMOUSIN (CEFE)
+
+6. [European forests responses to drought](europedrought.qmd)
+
+   **Funding**: Meteo France and [TAW-tree](taw-tree.qmd)
+
+   **Partners**: Silva (INRAE Nancy), CNRM (Meteo France, Toulouse). Coordinated by Emilie Joetzjer (Silva)

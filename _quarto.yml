@@ -21,18 +21,20 @@ website:
       - text: Projects
         icon: puzzle
         menu:
+          - text: "Current projects"
+            href: projects/current.qmd
           - text: "PHydrauCC"
-            href: proj/phydraucc.qmd
+            href: projects/phydraucc.qmd
           - text: "SlowStom"
-            href: proj/slowstom.qmd
+            href: projects/slowstom.qmd
           - text: "TAW-tree"
-            href: proj/taw-tree.qmd
+            href: projects/taw-tree.qmd
           - text: "LSMxAI"
-            href: proj/lsmxai.qmd
+            href: projects/lsmxai.qmd
           - text: "DroughtForC"
-            href: proj/droughtforc.qmd
+            href: projects/droughtforc.qmd
           - text: "EuropeDrought"
-            href: proj/europedrought.qmd
+            href: projects/europedrought.qmd
       - text: People
         #href: people/index.qmd
         icon: people
@@ -48,10 +50,7 @@ website:
       - text: FR-Hes
         icon: tree
         href: fr-hes/index.qmd
-    right:
-      - text: "Source"
-        icon: github
-        href: https://www.github.com/mcuntz/mcuntz.github.io
+    tools:
       - text: "Other links"
         icon: globe
         menu:
@@ -59,6 +58,9 @@ website:
             href: https://github.com/SebastienBoutry/inrae-project-website
           - text: Quarto
             href: https://quarto.org
+      - text: "Source"
+        icon: github
+        href: https://www.github.com/mcuntz/mcuntz.github.io
   ## Footer
   page-footer:
     left: |
