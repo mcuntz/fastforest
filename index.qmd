@@ -3,7 +3,8 @@
 
 # FastForest
 
-![](/images/run_forest_run_www.tenstickers-indonesia.com.png){fig-align="center" width="400"}
+<!-- magick run_forest_run_www.tenstickers-indonesia.com.png -fill '#84a349' -fuzz 90% -opaque '#1c1c1b' run_forest.png -->
+![](/images/run_forest.png){fig-align="center" width="400"}
 
 The FastForest group measures and models energy, water, and carbon fluxes between terrestrial ecosystems and the atmosphere. We are operating the [ICOS](https://www.icos-cp.eu) class 1 ecosystem site [FR-Hes](fr-hes/icos.qmd) with a eddy covariance flux tower and a ton of ancillary measurements. We are co-developing the ecosystem model [MuSICA](https://ecofun.ispa.bordeaux.inrae.fr/index.php/musica-model/) as well as the global land surface models [CABLE-POP](https://cable.readthedocs.io/en/latest/) and [ISBA](http://www.umr-cnrm.fr/spip.php?article146).
 
