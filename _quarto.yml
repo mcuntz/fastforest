@@ -1,7 +1,8 @@
 project:
-  type: inrae-project-website
+  type: website
   output-dir: docs
   resources: images
+  # resources: [images, fr-hes/html, fr-hes/libvisu]
 
 # Set language
 lang: en
@@ -9,11 +10,14 @@ lang: en
 # Set website config and logos
 website:
   title: "FastForest / Home"
+  description: "Website of the FastForest group of Silva @ INRAE Grand Est - Nancy"
+  site-url: http://mcuntz.github.io/
+  repo-url: https://github.com/mcuntz/mcuntz.github.io
   #  sidebar: not nice
   #    contents: auto
   ## Navbar menu
   navbar:
-    logo: /images/fastforest_logo.png
+    logo: images/fastforest_logo.png
     left:
       # - text: Home
       #   icon: house-door
@@ -65,11 +69,29 @@ website:
   page-footer:
     left: |
       [![](/images/Republique_Francaise_RVB.png){width=100px}![](/images/Logo-INRAE_Transparent.png){width=100px}](https://www.inrae.fr/)
-    right: |
-      [![](/images/Logo_UMR_Silva-petit.png){width=100px}](https://silva.nancy.hub.inrae.fr/)
     center:
       - text: LEGAL NOTICE
         icon: book
         href: legal_notice.qmd
+    right: |
+      [![](/images/Logo_UMR_Silva-petit.png){width=100px}](https://silva.nancy.hub.inrae.fr/)
   ## Margin
   margin-footer: |
+
+format:
+  # html:
+  #   theme: cosmo
+  #   css: styles.css
+  #   toc: true
+  html:
+    theme:
+      light: default
+      dark: darkly
+    respect-user-color-scheme: true
+    css: resources/styles.css
+    toc: true
+    grid:
+      sidebar-width: 50px
+      body-width: 1150px
+      margin-width: 300px
+      gutter-width: 1.5rem
