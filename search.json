@@ -49,46 +49,32 @@
     "text": "Funding: French National Research Agency (ANR)\nPartners: ESE (Université Paris-Saclay), METIS (Université Paris-Saclay), URFM (INRAE Avignon), CEFE (CNRS Montpellier), Silva (INRAE Nancy), GEOPS (Université Paris-Saclay). Coordinated by Nicolas Delpierre (ESE)\n\n\n\n\n\nForests cover one-third of the Earth’s land area and are central in the global carbon and water cycles. They contribute to mitigating ongoing climate change by absorbing 25% of the annual anthropogenic CO2 emissions1. Forests also play an important role in the distribution of precipitation and continental water dynamics, contributing about 60% of land evapotranspiration. Yet the future of forests is uncertain in the current context of climate change4. This is because trees are sessile organisms that depend on soil reserves to access water. With climate change, the world’s forests, like all terrestrial ecosystems, are facing an increase in atmospheric evaporative demand. In addition, in western central Europe and the Mediterranean area, climate models predict a likely increase in edaphic droughts in the coming decades. The response of forests to increased water deficit will depend largely on their access to soil water, which is to date very poorly characterized. Therefore, we need comprehensive approaches and interdisciplinary research to take into account the hydrological and hydrogeological parameters of the critical zone in the response of forests to water deficit.\nFor a long time, the so-called “available water content” (AWC, in millimetres of water) has been identified as a key parameter in the modelling of forest water balance, carbon balance, tree growth and survival. Yet, the concept of AWC has two main drawbacks that question its relevance in a context of increasing water deficit, particularly in the case of forests. First, the estimation of AWC is classically based on integrating pedotransfer functions over depth of 1 to 2-meters. This considerably underestimates the capacity of trees to grow roots much deeper (down to 5-10 m in the temperate and Mediterranean zones). Challenging the AWC concept, recent works have defined the Total Available Water (TAW) concept, that adds “deep water” extraction by trees to AWC. However, this deep-water resource remains poorly quantified because the soil volume actually explored by roots is unknown. Second, the estimation of AWC is typically done at the scale of a forest stand, and does not consider the large spatial heterogeneity of its soil. A consequence of this heterogeneity is that the access to soil water can vary greatly among individual trees in a forest, mirroring the large inter-individual variability in terms of functioning18 and vulnerability to water stress that is often observed but more rarely explained, and could contribute to the forest resilience to climate extremes. At a larger spatial scale, evidence is increasing that the access to deep water (hence the estimation of TAW) will be central in the forecast of the functioning and vulnerability of temperate and Mediterranean forests to ongoing climate change.\nIn this context, the TAW-tree project (Fig. 1) aims (1) to quantify the TAW reserve in forest plots through a combination of geophysical (WP1) and ecophysiological (WP2) approaches, (2) to upscale TAW at regional scale using remote sensing (WP3) in order to (3) quantify the influence of TAW on the functioning, growth and vulnerability of temperate and Mediterranean forests facing climate change (WP4). Our working hypotheses are (hypothesis 1) that AWC generally underestimates TAW, often in a considerable way in forests, (hypothesis 2) that the variations of TAW in a particular forest drive a large part of the inter-tree differences in their response to water shortage, (hypothesis 3) that TAW, and particularly its deep component, has a critical role in the functioning and vulnerability of forests exposed to heat and drought stresses and that it changes the forests’ contribution to groundwater discharge."
   },
   {
+    "objectID": "people/matthias_cuntz.html",
+    "href": "people/matthias_cuntz.html",
+    "title": "FastForest / Home",
+    "section": "",
+    "text": "Matthias Cuntz, Directeur de Recherche.\nMatthias received his PhD in physics (Heidelberg) and has subsequently been working in atmospheric physics (Paris), biology (Canberra), biogeochemical cycles (Jena), and hydrology (Leipzig). He is PI of the ICOS class 1 ecosystem site FR-Hes and is key developer of the ecosystem model MuSICA as well as of the global land surface model CABLE-POP. This allows him to combine measurements and modelling to understand and describe mathematically the processes the processes of the exchanges between the biosphere and the atmosphere, scaling from single leaves and greenhouse observations over fluxes measured and modelled at the ecosystem up to the continental and global scale.\n\n\n\n\n Scholar"
+  },
+  {
+    "objectID": "people/matthias_cuntz.html#matthias-cuntz",
+    "href": "people/matthias_cuntz.html#matthias-cuntz",
+    "title": "FastForest / Home",
+    "section": "",
+    "text": "Matthias Cuntz, Directeur de Recherche.\nMatthias received his PhD in physics (Heidelberg) and has subsequently been working in atmospheric physics (Paris), biology (Canberra), biogeochemical cycles (Jena), and hydrology (Leipzig). He is PI of the ICOS class 1 ecosystem site FR-Hes and is key developer of the ecosystem model MuSICA as well as of the global land surface model CABLE-POP. This allows him to combine measurements and modelling to understand and describe mathematically the processes the processes of the exchanges between the biosphere and the atmosphere, scaling from single leaves and greenhouse observations over fluxes measured and modelled at the ecosystem up to the continental and global scale.\n\n\n\n\n Scholar"
+  },
+  {
     "objectID": "legal_notice.html",
     "href": "legal_notice.html",
     "title": "FastForest / Home",
     "section": "",
-    "text": "Nom du site : FastForest\nURL complète du site : https://mcuntz.github.io/"
+    "text": "(informative sites with no paid content or services)\n\n\nSite name: FastForest Full site URL: https://mcuntz.github.io/\n\n\n\nFrench National Research Institute for Agriculture, Food and Environment (INRAE) INRAE is a public scientific and technical establishment headquartered at 147, rue de l’Université – 75338 Paris CEDEX 07. Its statutes are published in the French rural and maritime fishing code (Code rural et de la pêche maritime) (Articles R831-1 et seq.) It is represented by its President, Mr Philippe Mauguin. Email contact: web@inrae.fr - Telephone: 01 42 75 00 00\n\n\n\nINRAE SIREN: 180070039 Code APE: 7219Z Intra-community VAT number: FR 57 1800700039\n\n\n\nName of the Publication Director: Mr Philippe MAUGUIN Name of the Publication Manager: Mr Matthias Cuntz INRAE Research Director Webmaster: Mr Matthias Cuntz INRAE Research Director\n\n\n\nINRAE Public scientific and technical establishment 147, rue de l’Université - 75338 Paris cedex 07 01 42 75 90 00"
   },
   {
-    "objectID": "legal_notice.html#identification-du-site",
-    "href": "legal_notice.html#identification-du-site",
+    "objectID": "legal_notice.html#legal-notices",
+    "href": "legal_notice.html#legal-notices",
     "title": "FastForest / Home",
     "section": "",
-    "text": "Nom du site : FastForest\nURL complète du site : https://mcuntz.github.io/"
-  },
-  {
-    "objectID": "legal_notice.html#éditeurs-du-site",
-    "href": "legal_notice.html#éditeurs-du-site",
-    "title": "FastForest / Home",
-    "section": "Éditeur(s) du site",
-    "text": "Éditeur(s) du site\nINRAE - Institut national de recherche pour l’agriculture, l’alimentation et l’environnement INRAE est un établissement public à caractère scientifique et technologique. Il a son siège au 147, rue de l’université – 75338 Paris cedex 07. Ses statuts sont publiés dans le code rural et de la pêche maritime (articles R831-1 et suivants).\nIl est représenté par son Président Directeur général, M. Philippe MAUGUIN. Contact mail: web@inrae.fr - contact téléphonique: 01 42 75 90 00"
-  },
-  {
-    "objectID": "legal_notice.html#numéros-didentification",
-    "href": "legal_notice.html#numéros-didentification",
-    "title": "FastForest / Home",
-    "section": "Numéros d’identification",
-    "text": "Numéros d’identification\nINRAE SIREN: 180070039 Code APE: 7219Z Numéro de TVA intracommunautaire: FR 57 1800700039"
-  },
-  {
-    "objectID": "legal_notice.html#publication-du-site",
-    "href": "legal_notice.html#publication-du-site",
-    "title": "FastForest / Home",
-    "section": "Publication du site",
-    "text": "Publication du site\nNom du directeur de publication : M. Philippe MAUGUIN Nom du responsable de rédaction : M. Matthias Cuntz Webmaster du site : M. Matthias Cuntz"
-  },
-  {
-    "objectID": "legal_notice.html#hébergeur-du-site",
-    "href": "legal_notice.html#hébergeur-du-site",
-    "title": "FastForest / Home",
-    "section": "Hébergeur du site",
-    "text": "Hébergeur du site\nINRAE Établissement public à caractère scientifique et technologique 147, rue de l’université – 75338 Paris cedex 07 01 42 75 90 00"
+    "text": "(informative sites with no paid content or services)\n\n\nSite name: FastForest Full site URL: https://mcuntz.github.io/\n\n\n\nFrench National Research Institute for Agriculture, Food and Environment (INRAE) INRAE is a public scientific and technical establishment headquartered at 147, rue de l’Université – 75338 Paris CEDEX 07. Its statutes are published in the French rural and maritime fishing code (Code rural et de la pêche maritime) (Articles R831-1 et seq.) It is represented by its President, Mr Philippe Mauguin. Email contact: web@inrae.fr - Telephone: 01 42 75 00 00\n\n\n\nINRAE SIREN: 180070039 Code APE: 7219Z Intra-community VAT number: FR 57 1800700039\n\n\n\nName of the Publication Director: Mr Philippe MAUGUIN Name of the Publication Manager: Mr Matthias Cuntz INRAE Research Director Webmaster: Mr Matthias Cuntz INRAE Research Director\n\n\n\nINRAE Public scientific and technical establishment 147, rue de l’Université - 75338 Paris cedex 07 01 42 75 90 00"
   },
   {
     "objectID": "fr-hes/current_data.html",
@@ -110,20 +96,6 @@
     "title": "FastForest / Home",
     "section": "",
     "text": "Zihan Lu, post-doc.\nZihan received her PhD in physical geography in Peking University, China. She joined in INRAE Grand-Est in April, 2024. She is a member of PHydrauCC project, and her main work includes (1) incorporate soil, root and plant hydraulic processes into CABLE-POP, (2) link the plant hydraulic trait with photosynthesis, (3) add legacy effect of drought on wood formation and water conductivity. In the end, the parsimonious version of the hydraulic model will be tested at site, regional and global scale.\n\n\n\nPersonal page       E-Mail"
-  },
-  {
-    "objectID": "people/matthias_cuntz.html",
-    "href": "people/matthias_cuntz.html",
-    "title": "FastForest / Home",
-    "section": "",
-    "text": "Matthias Cuntz, Directeur de Recherche.\nMatthias received his PhD in physics and was subsequently working in atmospheric physics (Paris), biology (Canberra), biogeochemical cycles (Jena), and hydrology (Leipzig). He combines measurements and modelling to understand and describe mathematically the processes behind the exchanges of the atmosphere with the biosphere. He is Co-PI of the class 1 ICOS ecosystem site FR-Hes. He is key developer of the ecosystem model MuSICA and of the global land surface model CABLE-POP. This allows him to combine measurements and modelling to understand and describe mathematically the processes behind the exchanges of the atmosphere with the biosphere, scaling from single leaves and greenhouse observations over fluxes measured and modelled at the ecosystem up to the continental scale.\n\n\n\nPersonal page       E-Mail       Google scholar"
-  },
-  {
-    "objectID": "people/matthias_cuntz.html#matthias-cuntz",
-    "href": "people/matthias_cuntz.html#matthias-cuntz",
-    "title": "FastForest / Home",
-    "section": "",
-    "text": "Matthias Cuntz, Directeur de Recherche.\nMatthias received his PhD in physics and was subsequently working in atmospheric physics (Paris), biology (Canberra), biogeochemical cycles (Jena), and hydrology (Leipzig). He combines measurements and modelling to understand and describe mathematically the processes behind the exchanges of the atmosphere with the biosphere. He is Co-PI of the class 1 ICOS ecosystem site FR-Hes. He is key developer of the ecosystem model MuSICA and of the global land surface model CABLE-POP. This allows him to combine measurements and modelling to understand and describe mathematically the processes behind the exchanges of the atmosphere with the biosphere, scaling from single leaves and greenhouse observations over fluxes measured and modelled at the ecosystem up to the continental scale.\n\n\n\nPersonal page       E-Mail       Google scholar"
   },
   {
     "objectID": "projects/slowstom.html",
