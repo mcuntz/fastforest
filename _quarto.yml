@@ -1,8 +1,8 @@
 project:
   type: website
   output-dir: docs
-  resources: images
-  # resources: [images, fr-hes/html, fr-hes/libvisu]
+  # resources: images
+  resources: [images, fr-hes/png]
 
 # Set language
 lang: en
@@ -53,7 +53,11 @@ website:
             href: people/zihan_lu.qmd
       - text: FR-Hes
         icon: tree
-        href: fr-hes/index.qmd
+        menu:
+          - text: "ICOS website"
+            href: fr-hes/icos.qmd
+          - text: "Current data"
+            href: fr-hes/current_data.qmd
     tools:
       - text: "Other links"
         icon: globe

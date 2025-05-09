@@ -1,0 +1,7 @@
+---
+title: "Current data"
+listing:
+  contents:
+    - "png/*.png"
+  template: image.ejs
+---
