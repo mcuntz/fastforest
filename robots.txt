@@ -1,1 +1,1 @@
-Sitemap: https://mcuntz.github.io/sitemap.xml
+Sitemap: http://mcuntz.github.io/sitemap.xml
