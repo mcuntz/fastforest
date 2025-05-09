@@ -1,27 +1,40 @@
-## Identification du site
-Nom du site : FastForest
+## Legal Notices
 
-URL complète du site : https://mcuntz.github.io/
+(informative sites with no paid content or services)
 
-## Éditeur(s) du site
-INRAE - Institut national de recherche pour l’agriculture, l’alimentation et l’environnement
-INRAE est un établissement public à caractère scientifique et technologique. Il a son siège au 147, rue de l’université – 75338 Paris cedex 07. Ses statuts sont publiés dans le code rural et de la pêche maritime (articles R831-1 et suivants).
+### Site Identification
 
-Il est représenté par son Président Directeur général, M. Philippe MAUGUIN.
-Contact mail: web@inrae.fr - contact téléphonique: 01 42 75 90 00
+Site name: FastForest<br>
+Full site URL: https://mcuntz.github.io/
 
-## Numéros d'identification
-INRAE SIREN: 180070039
-Code APE: 7219Z
-Numéro de TVA intracommunautaire: FR 57 1800700039
 
-## Publication du site
-Nom du directeur de publication : M. Philippe MAUGUIN
-Nom du responsable de rédaction : M. Matthias Cuntz
-Webmaster du site : M. Matthias Cuntz
+### Site Publisher
 
-## Hébergeur du site
-INRAE 
-Établissement public à caractère scientifique et technologique
-147, rue de l’université – 75338 Paris cedex 07
+French National Research Institute for Agriculture, Food and Environment (INRAE)<br>
+INRAE is a public scientific and technical establishment headquartered at 147, rue de l’Université – 75338 Paris CEDEX 07.
+Its statutes are published in the French rural and maritime fishing code (Code rural et de la pêche maritime) (Articles R831-1 et seq.)<br>
+It is represented by its President, Mr Philippe Mauguin.<br>
+Email contact: web@inrae.fr - Telephone: 01 42 75 00 00
+
+
+### Identification Numbers
+
+INRAE<br>
+SIREN: 180070039<br>
+Code APE: 7219Z<br>
+Intra-community VAT number: FR 57 1800700039
+
+
+### Site Publication
+
+Name of the Publication Director: Mr Philippe MAUGUIN<br>
+Name of the Publication Manager: Mr Matthias Cuntz INRAE Research Director<br>
+Webmaster: Mr Matthias Cuntz INRAE Research Director
+
+
+### Site Host
+
+INRAE<br>
+Public scientific and technical establishment<br>
+147, rue de l'Université - 75338 Paris cedex 07<br>
 01 42 75 90 00

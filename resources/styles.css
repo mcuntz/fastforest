@@ -9,18 +9,21 @@
     src: url("Linotype - AvenirNextLTPro-DemiCn.otf") format("opentype");
 };
 
-/* DOES NOT WORK, e.g. using var(--silva)
-/* :root { */
-/*     --inrae-mint: #00a3a6; */
-/*     --inrae-dark: #275662; */
-/*     --inrae-red: #ed6e6c; */
-/*     --inrae-yellow: #ead8a2; */
-/*     --silva: #84A349; */
-/*     --white: #ffffff; */
-/* } */
+/* inrae #00a3a6 */
+/* inrae-var1 #66c1bf */
+/* inrae-var2 #008c8e */
+/* inrae-var3 #275662 */
+/* inrae-green #9dc544 */
+/* inrae-cyan #9ed6e3 */
+/* inrae-blue #423089 */
+/* inrae-red #ed6e6c */
+/* inrae-darkgrey #797870 */
+/* inrae-lightgrey #c4c0b3 */
+/* silva #84a349 */
+/* yellow #ead8a2 */
 
 .title {
-    color: #84A349;
+    color: #84a349;
     font-family: "Raleway";
     font-weight: bold;
 }
@@ -32,13 +35,13 @@ body {
 
 h1,h2,h3,h4,h5 {
     text-align: left;
-    color: #84A349;
+    color: #84a349;
     font-family: "Raleway";
     font-weight: bold;
 }
 
 .header-section-number {
-    color: #84A349;
+    color: #84a349;
 }
 
 /* Websites / navbar */
@@ -46,7 +49,7 @@ h1,h2,h3,h4,h5 {
 .navbar {
     border: 0px solid #275662;
     border-bottom: 5px solid #275662;
-    background-color: #84A349;
+    background-color: #84a349;
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
@@ -70,7 +73,7 @@ h1,h2,h3,h4,h5 {
 #quarto-content .sidebar-navigation {
     border: none !important;
     color: white;
-    background-color: #84A349;
+    background-color: #84a349;
 
     code {
         font-size: inherit;
@@ -118,7 +121,7 @@ a.anchor-section::before {
 }
 
 a {
-    color: #ed6e6c;
+    color: #423089;
 }
 
 .book-summary ul.summary li.active > a {
@@ -128,7 +131,7 @@ a {
 }
 
 div.sidebar-item-container .active, div.sidebar-item-container .show > .nav-link, div.sidebar-item-container .sidebar-link > code {
-    color: #ed6e6c;
+    color: #423089;
     font-weight: bold;
 }
 
@@ -138,20 +141,20 @@ div.sidebar-item-container .active, div.sidebar-item-container .show > .nav-link
 }
 
 .sidebar nav[role="doc-toc"] ul > li > a.active {
-    border-left: 1px solid #ed6e6c;
-    color: #ed6e6c !important;
+    border-left: 1px solid #423089;
+    color: #423089 !important;
 }
 
 .sidebar nav[role="doc-toc"] ul > li > ul > li > a.active {
-    border-left: 1px solid #ed6e6c;
-    color: #ed6e6c !important;
+    border-left: 1px solid #423089;
+    color: #423089 !important;
 }
 
 
 footer.footer div.nav-footer p:last-child {
     margin-bottom: 0;
     font-size: 1.2em;
-    color: #ed6e6c;
+    color: #423089;
     text-decoration: underline;
 }
 

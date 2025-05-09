@@ -1,23 +1,23 @@
 project:
   type: website
   output-dir: docs
-  # resources: images
   resources: [images, fr-hes/png]
 
-# Set language
 lang: en
 
-# Set website config and logos
+# Config
 website:
   title: "FastForest / Home"
   description: "Website of the FastForest group of Silva @ INRAE Grand Est - Nancy"
   site-url: http://mcuntz.github.io/
   repo-url: https://github.com/mcuntz/mcuntz.github.io
+  favicon: images/fastforest_logo.png
   #  sidebar: not nice
   #    contents: auto
   ## Navbar menu
   navbar:
     logo: images/fastforest_logo.png
+    ## left-hand-side of navbar
     left:
       # - text: Home
       #   icon: house-door
@@ -40,13 +40,8 @@ website:
           - text: "EuropeDrought"
             href: projects/europedrought.qmd
       - text: People
-        #href: people/index.qmd
         icon: people
         menu:
-          - text: "Emilie Joetzjer"
-            href: people/emilie_joetzjer.qmd
-          - text: "Gabriel Destouet"
-            href: people/gabriel_destouet.qmd
           - text: "Matthias Cuntz"
             href: people/matthias_cuntz.qmd
           - text: "Zihan Lu"
@@ -58,14 +53,15 @@ website:
             href: fr-hes/icos.qmd
           - text: "Current data"
             href: fr-hes/current_data.qmd
+    ## right-hand-side of navbar
     tools:
       - text: "Other links"
         icon: globe
         menu:
-          - text: inrae-project-website
-            href: https://github.com/SebastienBoutry/inrae-project-website
           - text: Quarto
             href: https://quarto.org
+          - text: inrae-project-website
+            href: https://github.com/SebastienBoutry/inrae-project-website
       - text: "Source"
         icon: github
         href: https://www.github.com/mcuntz/mcuntz.github.io
@@ -74,7 +70,7 @@ website:
     left: |
       [![](/images/Republique_Francaise_RVB.png){width=100px}![](/images/Logo-INRAE_Transparent.png){width=100px}](https://www.inrae.fr/)
     center:
-      - text: LEGAL NOTICE
+      - text: Legal Notice
         icon: book
         href: legal_notice.qmd
     right: |
@@ -83,10 +79,6 @@ website:
   margin-footer: |
 
 format:
-  # html:
-  #   theme: cosmo
-  #   css: styles.css
-  #   toc: true
   html:
     theme:
       light: default
@@ -94,8 +86,13 @@ format:
     respect-user-color-scheme: true
     css: resources/styles.css
     toc: true
+    # grid:
+    #   sidebar-width: 50px
+    #   body-width: 1150px
+    #   margin-width: 300px
+    #   gutter-width: 1.5rem
     grid:
-      sidebar-width: 50px
-      body-width: 1150px
-      margin-width: 300px
+      sidebar-width: 10px
+      body-width: 1080px
+      margin-width: 150px
       gutter-width: 1.5rem
