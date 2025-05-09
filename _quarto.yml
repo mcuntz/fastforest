@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-  # resources: images
+  #  resources: images
   resources: [images, fr-hes/png]
 
 # Set language
