@@ -121,7 +121,7 @@ a.anchor-section::before {
 }
 
 a {
-    color: #423089;
+    color: #9ed6e3;
 }
 
 .book-summary ul.summary li.active > a {
@@ -131,7 +131,7 @@ a {
 }
 
 div.sidebar-item-container .active, div.sidebar-item-container .show > .nav-link, div.sidebar-item-container .sidebar-link > code {
-    color: #423089;
+    color: #9ed6e3;
     font-weight: bold;
 }
 
@@ -141,20 +141,20 @@ div.sidebar-item-container .active, div.sidebar-item-container .show > .nav-link
 }
 
 .sidebar nav[role="doc-toc"] ul > li > a.active {
-    border-left: 1px solid #423089;
-    color: #423089 !important;
+    border-left: 1px solid #9ed6e3;
+    color: #9ed6e3 !important;
 }
 
 .sidebar nav[role="doc-toc"] ul > li > ul > li > a.active {
-    border-left: 1px solid #423089;
-    color: #423089 !important;
+    border-left: 1px solid #9ed6e3;
+    color: #9ed6e3 !important;
 }
 
 
 footer.footer div.nav-footer p:last-child {
     margin-bottom: 0;
     font-size: 1.2em;
-    color: #423089;
+    color: #9ed6e3;
     text-decoration: underline;
 }
 
