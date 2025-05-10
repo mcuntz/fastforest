@@ -92,21 +92,19 @@ website:
             href: https://www.github.com/mcuntz/visualise_icos_cp/
 
     ## right-hand-side of navbar
-    tools:
-      - text: "Other links"
-        icon: globe
+    right:
+      - icon: globe
         menu:
           - text: Quarto
             href: https://quarto.org
           - text: inrae-project-website
             href: https://github.com/SebastienBoutry/inrae-project-website
-      - text: "Source"
-        icon: github
+      - icon: github
         href: https://www.github.com/mcuntz/fastforest
   ## Footer
   page-footer:
     left: |
-      [![](/images/Republique_Francaise_RVB.png){width=100px}![](/images/Logo-INRAE_Transparent.png){width=100px}](https://www.inrae.fr/)
+      ![](/images/Republique_Francaise_RVB.png){width=100px} &nbsp; [![](/images/Logo-INRAE_Transparent.png){width=100px}](https://www.inrae.fr/)
     center:
       - text: Legal Notice
         icon: book

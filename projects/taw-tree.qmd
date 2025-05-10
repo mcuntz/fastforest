@@ -1,7 +1,7 @@
 ---
 ---
 
-## TAW-tree - Total Available Water to Tree: a key, missing parameter for assessing the vulnerability of forests in the face of climate change
+## TAW-tree -- Total Available Water to Tree: a key, missing parameter for assessing the vulnerability of forests in the face of climate change
 
 **Funding**: French National Research Agency (ANR)
 

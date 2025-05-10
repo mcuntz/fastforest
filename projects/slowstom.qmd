@@ -1,7 +1,7 @@
 ---
 ---
 
-## SlowStom
+## SlowStom -- Influence of slow stomatal responses on ecosystem fluxes and water-use efficiency
 
 **Funding**: Laboratory of Excellence Advanced Research on the Biology of Tree and Forest Ecosystems (ARBRE; grant ANR-11-LABX-0002-01) and Université de Lorraine.
 

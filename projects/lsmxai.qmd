@@ -1,7 +1,7 @@
 ---
 ---
 
-## LSMxAI: Better projections of future climate change – using explainable AI to improve land surface models
+## LSMxAI -- Better projections of future climate change – using explainable AI to improve land surface models
 
 **Funding**: L'Institut des Mathématiques pour la Planète Terre (IMPT)
 

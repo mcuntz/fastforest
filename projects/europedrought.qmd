@@ -1,7 +1,7 @@
 ---
 ---
 
-## European forests responses to drought
+## European forest responses to drought
 
 **Funding**: Meteo France and [TAW-tree](taw-tree.qmd)
 
