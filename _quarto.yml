@@ -9,8 +9,8 @@ lang: en
 website:
   title: "FastForest / Home"
   description: "Website of the FastForest group of Silva @ INRAE Grand Est - Nancy"
-  site-url: http://mcuntz.github.io/
-  repo-url: https://github.com/mcuntz/mcuntz.github.io
+  site-url: http://mcuntz.github.io/fastforest/
+  repo-url: https://github.com/mcuntz/fastforest
   favicon: images/fastforest_logo.png
   #  sidebar: not nice
   #    contents: auto
@@ -64,7 +64,7 @@ website:
             href: https://github.com/SebastienBoutry/inrae-project-website
       - text: "Source"
         icon: github
-        href: https://www.github.com/mcuntz/mcuntz.github.io
+        href: https://www.github.com/mcuntz/fastforest
   ## Footer
   page-footer:
     left: |

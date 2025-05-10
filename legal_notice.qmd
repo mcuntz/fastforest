@@ -5,7 +5,7 @@
 ### Site Identification
 
 Site name: FastForest<br>
-Full site URL: https://mcuntz.github.io/
+Full site URL: https://mcuntz.github.io/fastforest/
 
 
 ### Site Publisher
