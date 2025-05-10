@@ -42,6 +42,8 @@ website:
       - text: People
         icon: people
         menu:
+          - text: "Research Group"
+            href: people/group.qmd
           - text: "Matthias Cuntz"
             href: people/matthias_cuntz.qmd
           - text: "Zihan Lu"
@@ -50,9 +52,45 @@ website:
         icon: tree
         menu:
           - text: "ICOS website"
-            href: fr-hes/icos.qmd
+            href: https://meta.icos-cp.eu/resources/stations/ES_FR-Hes
           - text: "Current data"
             href: fr-hes/current_data.qmd
+      - text: Tools
+        icon: gear
+        menu:
+          - text: "Overview"
+            href: tools/overview.qmd
+          - text: dfvue
+            href: https://mcuntz.github.io/dfvue/
+          - text: hesseflux
+            href: https://mcuntz.github.io/hesseflux/
+          - text: ido
+            href: https://www.github.com/mcuntz/ido/
+          - text: install_netcdf
+            href: https://www.github.com/mcuntz/install_netcdf/
+          - text: jams_fortran
+            href: https://www.github.com/mcuntz/jams_fortran/
+          - text: jams_makefile
+            href: https://www.github.com/mcuntz/jams_makefile/
+          - text: loggertools
+            href: https://mcuntz.github.io/loggertools/
+          - text: mcplot
+            href: https://mcuntz.github.io/mcplot/
+          - text: ncio
+            href: https://mcuntz.github.io/ncio/
+          - text: ncvue
+            href: https://mcuntz.github.io/ncvue/
+          - text: partialwrap
+            href: https://mcuntz.github.io/partialwrap/
+          - text: pyeee
+            href: https://mcuntz.github.io/pyeee/
+          - text: pyjams
+            href: https://mcuntz.github.io/pyjams/
+          - text: setup_mac
+            href: https://www.github.com/mcuntz/setup_mac/
+          - text: visualise_icos_cp
+            href: https://www.github.com/mcuntz/visualise_icos_cp/
+
     ## right-hand-side of navbar
     tools:
       - text: "Other links"
