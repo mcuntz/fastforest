@@ -60,37 +60,14 @@ website:
         menu:
           - text: "Overview"
             href: tools/overview.qmd
-          - text: dfvue
-            href: https://mcuntz.github.io/dfvue/
-          - text: hesseflux
-            href: https://mcuntz.github.io/hesseflux/
-          - text: ido
-            href: https://www.github.com/mcuntz/ido/
-          - text: install_netcdf
-            href: https://www.github.com/mcuntz/install_netcdf/
-          - text: jams_fortran
-            href: https://www.github.com/mcuntz/jams_fortran/
-          - text: jams_makefile
-            href: https://www.github.com/mcuntz/jams_makefile/
-          - text: loggertools
-            href: https://mcuntz.github.io/loggertools/
-          - text: mcplot
-            href: https://mcuntz.github.io/mcplot/
-          - text: ncio
-            href: https://mcuntz.github.io/ncio/
-          - text: ncvue
-            href: https://mcuntz.github.io/ncvue/
-          - text: partialwrap
-            href: https://mcuntz.github.io/partialwrap/
-          - text: pyeee
-            href: https://mcuntz.github.io/pyeee/
-          - text: pyjams
-            href: https://mcuntz.github.io/pyjams/
-          - text: setup_mac
-            href: https://www.github.com/mcuntz/setup_mac/
-          - text: visualise_icos_cp
-            href: https://www.github.com/mcuntz/visualise_icos_cp/
-
+          - text: Data viewer
+            href: "/tools/overview.html#sec-data-viewer"
+          - text: Eddy covariance
+            href: "/tools/overview.html#sec-eddy-covariance"
+          - text: Python tools
+            href: "/tools/overview.html#sec-python-tools"
+          - text: Other tools
+            href: "/tools/overview.html#sec-other-tools"
     ## right-hand-side of navbar
     right:
       - icon: globe
