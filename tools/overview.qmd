@@ -13,7 +13,7 @@
 ::: {#second-column}
 **dfvue** is a minimal GUI for a quick view of csv files. It uses an input panel similar to Microsoft Excel to check visually that the csv file is read correctly. It provides most options of the pandas.read_csv method to be very versatile on the possible csv format.
 
-**dfvue** is a Python script that can be called from within Python or as a command line tool. It is not supposed to produce publication-ready plots but rather provide a quick overview of the csv file.
+**dfvue** is a Python script that can be called from within Python or as a command line tool. It is not supposed to produce publication-ready plots but rather provide a quick overview of the csv file(s).
 :::
 
 ::: {#third-column}
@@ -41,25 +41,7 @@
 :::
 
 ::: {#second-column}
-Visualise ICOS ecosystem data from the ICOS Carbon Portal (ICOS-CP)
-
-usage: make_html.py [-h] [-d number_days] [-p product] [args]
-
-| positional arguments:
-|     args                  ICOS Ecosystem station name
-
-| options:
-|     -h, --help            show this help message and exit
-|     -d number_days, --days number_days
-|                           Number of days to visualise. 0 means all available days
-|                           (default: 0).
-|     -p product, --product product
-|                           ICOS CP data product: "NRT" or "FLUXNET"
-|                           (default: NRT).
-
-Example: Visualise the last 30 days of data at FR-Hes
-
-python make_html.py FR-Hes -d 30
+Visualise ICOS ecosystem data from the ICOS Carbon Portal (ICOS-CP). This is a demonstrator how to access data on the carbon portal from within Python and make some simple interactive plots.
 :::
 
 ::: {#third-column}
@@ -94,22 +76,6 @@ The post-processing functionality for Eddy flux data is similar to the R-package
 ### Python tools {#sec-python-tools}
 
 ::: {layout="[[15,80,8]]"}
-
-::: {#first-column}
-<!-- --- --- --- --- --- loggertools --- --- --- --- --- -->
-[loggertools](https://mcuntz.github.io/loggertools/)
-:::
-
-::: {#second-column}
-**loggertools** is a Python port of the Control File Functions of the Logger Tools Software of Olaf Kolle, MPI-BGC Jena, (c) 2012.
-
-From the Logger Tools Software manual:<br>
-"The functions range from simple mathematic operations to more complex and special procedures including functions for checking data. Most of the functions have the following appearance: `y = f(x, p1, p2, ..., pn)` where `y` is the variable in which the result of the function `f` is stored, `x` is the input variable of the function and `p1` to `pn` are parameters (numbers) of the function. An output variable (result of a function) may be the same as an input variable. Some functions need more than one input variable, some functions do not need any parameter and some functions (`mean`, `mini`, `maxi`) may have a variable number of input variables."
-:::
-
-::: {#third-column}
-[{{< fa solid globe >}}](https://mcuntz.github.io/loggertools/)
-:::
 
 ::: {#first-column}
 <!-- --- --- --- --- --- mcplot --- --- --- --- --- -->
@@ -182,6 +148,22 @@ The package modernises and makes available routines of the [JAMS Python library]
 [{{< fa solid globe >}}](https://mcuntz.github.io/pyjams/)
 :::
 
+::: {#first-column}
+<!-- --- --- --- --- --- loggertools --- --- --- --- --- -->
+[loggertools](https://mcuntz.github.io/loggertools/)
+:::
+
+::: {#second-column}
+**loggertools** is a Python port of the Control File Functions of the Logger Tools Software of Olaf Kolle, MPI-BGC Jena, (c) 2012.
+
+From the Logger Tools Software manual:<br>
+"The functions range from simple mathematic operations to more complex and special procedures including functions for checking data. Most of the functions have the following appearance: `y = f(x, p1, p2, ..., pn)` where `y` is the variable in which the result of the function `f` is stored, `x` is the input variable of the function and `p1` to `pn` are parameters (numbers) of the function. An output variable (result of a function) may be the same as an input variable. Some functions need more than one input variable, some functions do not need any parameter and some functions (`mean`, `mini`, `maxi`) may have a variable number of input variables."
+:::
+
+::: {#third-column}
+[{{< fa solid globe >}}](https://mcuntz.github.io/loggertools/)
+:::
+
 :::
 
 
@@ -195,7 +177,7 @@ The package modernises and makes available routines of the [JAMS Python library]
 :::
 
 ::: {#second-column}
-Collection of bash command line scripts.
+Collection of bash command line scripts to batch rename files, replace text in file(s), invert the colours in images, etc.
 :::
 
 ::: {#third-column}
@@ -214,7 +196,7 @@ The script was initially written to install netCDF4 (hence its name) and all its
 
 It is also used to install missing packages locally on computing clusters. For example, a cluster might have the netCDF C-library installed but not the Fortran version.
 
-Set parameters in Setup section, as well as directories to packages that are already installed.
+Set parameters in the Setup section as well as the directories to packages that are already installed.
 :::
 
 ::: {#third-column}
@@ -228,9 +210,7 @@ Set parameters in Setup section, as well as directories to packages that are alr
 
 ::: {#second-column}
 The JAMS Fortran library is a collection of general Fortran modules
-offering miscellaneous functions in the categories *Computational*, *Date and Time*, *Input / Output*, *Math / Numerics*, Screening, Sensitivity Analysis and Optimising / Fitting*, and *Miscellaneous*.
-
-Created November 2011 by [Matthias Cuntz](/people/matthias_cuntz.qmd) and [Juliane Mai](https://juliane-mai.com) while at the Department Computational Hydrosystems, Helmholtz Centre for Environmental Research - UFZ, Permoserstr. 15, 04318 Leipzig, Germany, and continued while M Cuntz is at the Institut National de Recherche pour l’Agriculture, l’Alimentation et l’Environnement (INRAE), Nancy, France, and J Mai is at the Department of Earth and Environmental Sciences of the University of Waterloo, ON, Canada.
+offering miscellaneous functions in the categories *Computational*, *Date and Time*, *Input / Output*, *Math / Numerics*, *Screening, Sensitivity Analysis and Optimising / Fitting*, and *Miscellaneous*.
 :::
 
 ::: {#third-column}
