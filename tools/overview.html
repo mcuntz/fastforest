@@ -439,7 +439,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div id="second-column" class="quarto-layout-cell" style="flex-basis: 77.7%;justify-content: flex-start;">
 <p><strong>dfvue</strong> is a minimal GUI for a quick view of csv files. It uses an input panel similar to Microsoft Excel to check visually that the csv file is read correctly. It provides most options of the pandas.read_csv method to be very versatile on the possible csv format.</p>
-<p><strong>dfvue</strong> is a Python script that can be called from within Python or as a command line tool. It is not supposed to produce publication-ready plots but rather provide a quick overview of the csv file.</p>
+<p><strong>dfvue</strong> is a Python script that can be called from within Python or as a command line tool. It is not supposed to produce publication-ready plots but rather provide a quick overview of the csv file(s).</p>
 </div>
 <div id="third-column" class="quarto-layout-cell" style="flex-basis: 7.8%;justify-content: flex-start;">
 <p><a href="https://mcuntz.github.io/dfvue/"><i class="fa-solid fa-globe" aria-label="globe"></i></a></p>
@@ -464,20 +464,7 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="https://www.github.com/mcuntz/visualise_icos_cp/">Visualise data from ICOS Carbon Portal</a></p>
 </div>
 <div id="second-column" class="quarto-layout-cell" style="flex-basis: 77.7%;justify-content: flex-start;">
-<p>Visualise ICOS ecosystem data from the ICOS Carbon Portal (ICOS-CP)</p>
-<p>usage: make_html.py [-h] [-d number_days] [-p product] [args]</p>
-<div class="line-block">positional arguments:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;args ICOS Ecosystem station name</div>
-<div class="line-block">options:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-h, –help show this help message and exit<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-d number_days, –days number_days<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Number of days to visualise. 0 means all available days<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(default: 0).<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-p product, –product product<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ICOS CP data product: “NRT” or “FLUXNET”<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(default: NRT).</div>
-<p>Example: Visualise the last 30 days of data at FR-Hes</p>
-<p>python make_html.py FR-Hes -d 30</p>
+<p>Visualise ICOS ecosystem data from the ICOS Carbon Portal (ICOS-CP). This is a demonstrator how to access data on the carbon portal from within Python and make some simple interactive plots.</p>
 </div>
 <div id="third-column" class="quarto-layout-cell" style="flex-basis: 7.8%;justify-content: flex-start;">
 <p><a href="https://www.github.com/mcuntz/visualise_icos_cp/"><i class="fa-solid fa-globe" aria-label="globe"></i></a></p>
@@ -506,19 +493,6 @@ ul.task-list li input[type="checkbox"] {
 <section id="sec-python-tools" class="level3">
 <h3 class="anchored" data-anchor-id="sec-python-tools">Python tools</h3>
 <div class="quarto-layout-panel" data-layout="[[15,80,8]]">
-<div class="quarto-layout-row">
-<div id="first-column" class="quarto-layout-cell" style="flex-basis: 14.6%;justify-content: flex-start;">
-<!-- --- --- --- --- --- loggertools --- --- --- --- --- -->
-<p><a href="https://mcuntz.github.io/loggertools/">loggertools</a></p>
-</div>
-<div id="second-column" class="quarto-layout-cell" style="flex-basis: 77.7%;justify-content: flex-start;">
-<p><strong>loggertools</strong> is a Python port of the Control File Functions of the Logger Tools Software of Olaf Kolle, MPI-BGC Jena, (c) 2012.</p>
-<p>From the Logger Tools Software manual:<br> “The functions range from simple mathematic operations to more complex and special procedures including functions for checking data. Most of the functions have the following appearance: <code>y = f(x, p1, p2, ..., pn)</code> where <code>y</code> is the variable in which the result of the function <code>f</code> is stored, <code>x</code> is the input variable of the function and <code>p1</code> to <code>pn</code> are parameters (numbers) of the function. An output variable (result of a function) may be the same as an input variable. Some functions need more than one input variable, some functions do not need any parameter and some functions (<code>mean</code>, <code>mini</code>, <code>maxi</code>) may have a variable number of input variables.”</p>
-</div>
-<div id="third-column" class="quarto-layout-cell" style="flex-basis: 7.8%;justify-content: flex-start;">
-<p><a href="https://mcuntz.github.io/loggertools/"><i class="fa-solid fa-globe" aria-label="globe"></i></a></p>
-</div>
-</div>
 <div class="quarto-layout-row">
 <div id="first-column" class="quarto-layout-cell" style="flex-basis: 14.6%;justify-content: flex-start;">
 <!-- --- --- --- --- --- mcplot --- --- --- --- --- -->
@@ -584,6 +558,19 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="https://mcuntz.github.io/pyjams/"><i class="fa-solid fa-globe" aria-label="globe"></i></a></p>
 </div>
 </div>
+<div class="quarto-layout-row">
+<div id="first-column" class="quarto-layout-cell" style="flex-basis: 14.6%;justify-content: flex-start;">
+<!-- --- --- --- --- --- loggertools --- --- --- --- --- -->
+<p><a href="https://mcuntz.github.io/loggertools/">loggertools</a></p>
+</div>
+<div id="second-column" class="quarto-layout-cell" style="flex-basis: 77.7%;justify-content: flex-start;">
+<p><strong>loggertools</strong> is a Python port of the Control File Functions of the Logger Tools Software of Olaf Kolle, MPI-BGC Jena, (c) 2012.</p>
+<p>From the Logger Tools Software manual:<br> “The functions range from simple mathematic operations to more complex and special procedures including functions for checking data. Most of the functions have the following appearance: <code>y = f(x, p1, p2, ..., pn)</code> where <code>y</code> is the variable in which the result of the function <code>f</code> is stored, <code>x</code> is the input variable of the function and <code>p1</code> to <code>pn</code> are parameters (numbers) of the function. An output variable (result of a function) may be the same as an input variable. Some functions need more than one input variable, some functions do not need any parameter and some functions (<code>mean</code>, <code>mini</code>, <code>maxi</code>) may have a variable number of input variables.”</p>
+</div>
+<div id="third-column" class="quarto-layout-cell" style="flex-basis: 7.8%;justify-content: flex-start;">
+<p><a href="https://mcuntz.github.io/loggertools/"><i class="fa-solid fa-globe" aria-label="globe"></i></a></p>
+</div>
+</div>
 </div>
 </section>
 <section id="sec-other-tools" class="level3">
@@ -595,7 +582,7 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="https://www.github.com/mcuntz/ido/">ido</a></p>
 </div>
 <div id="second-column" class="quarto-layout-cell" style="flex-basis: 77.7%;justify-content: flex-start;">
-<p>Collection of bash command line scripts.</p>
+<p>Collection of bash command line scripts to batch rename files, replace text in file(s), invert the colours in images, etc.</p>
 </div>
 <div id="third-column" class="quarto-layout-cell" style="flex-basis: 7.8%;justify-content: flex-start;">
 <p><a href="https://www.github.com/mcuntz/ido/"><i class="fa-solid fa-globe" aria-label="globe"></i></a></p>
@@ -610,7 +597,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Install open source packages to work with netCDF and openMPI on Mac OS X and Linux.</p>
 <p>The script was initially written to install netCDF4 (hence its name) and all its dependencies to be used with different Fortran compilers, as well as some netCDF tools such as cdo, nco and ncview.</p>
 <p>It is also used to install missing packages locally on computing clusters. For example, a cluster might have the netCDF C-library installed but not the Fortran version.</p>
-<p>Set parameters in Setup section, as well as directories to packages that are already installed.</p>
+<p>Set parameters in the Setup section as well as the directories to packages that are already installed.</p>
 </div>
 <div id="third-column" class="quarto-layout-cell" style="flex-basis: 7.8%;justify-content: flex-start;">
 <p><a href="https://www.github.com/mcuntz/install_netcdf/"><i class="fa-solid fa-globe" aria-label="globe"></i></a></p>
@@ -622,8 +609,7 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="https://www.github.com/mcuntz/jams_fortran/">jams_fortran</a></p>
 </div>
 <div id="second-column" class="quarto-layout-cell" style="flex-basis: 77.7%;justify-content: flex-start;">
-<p>The JAMS Fortran library is a collection of general Fortran modules offering miscellaneous functions in the categories <em>Computational</em>, <em>Date and Time</em>, <em>Input / Output</em>, <em>Math / Numerics</em>, Screening, Sensitivity Analysis and Optimising / Fitting<em>, and </em>Miscellaneous*.</p>
-<p>Created November 2011 by <a href="../people/matthias_cuntz.html">Matthias Cuntz</a> and <a href="https://juliane-mai.com">Juliane Mai</a> while at the Department Computational Hydrosystems, Helmholtz Centre for Environmental Research - UFZ, Permoserstr. 15, 04318 Leipzig, Germany, and continued while M Cuntz is at the Institut National de Recherche pour l’Agriculture, l’Alimentation et l’Environnement (INRAE), Nancy, France, and J Mai is at the Department of Earth and Environmental Sciences of the University of Waterloo, ON, Canada.</p>
+<p>The JAMS Fortran library is a collection of general Fortran modules offering miscellaneous functions in the categories <em>Computational</em>, <em>Date and Time</em>, <em>Input / Output</em>, <em>Math / Numerics</em>, <em>Screening, Sensitivity Analysis and Optimising / Fitting</em>, and <em>Miscellaneous</em>.</p>
 </div>
 <div id="third-column" class="quarto-layout-cell" style="flex-basis: 7.8%;justify-content: flex-start;">
 <p><a href="https://www.github.com/mcuntz/jams_fortran/"><i class="fa-solid fa-globe" aria-label="globe"></i></a></p>
