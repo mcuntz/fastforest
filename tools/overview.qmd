@@ -37,7 +37,7 @@
 
 ::: {#first-column}
 <!-- --- --- --- --- --- visualise_icos_cp --- --- --- --- --- -->
-[Visualise data from ICOS Carbon Portal](https://www.github.com/mcuntz/visualise_icos_cp/)
+[visualise_icos_cp](https://www.github.com/mcuntz/visualise_icos_cp/)
 :::
 
 ::: {#second-column}
