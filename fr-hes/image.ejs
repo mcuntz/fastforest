@@ -1,8 +1,8 @@
 <% for (const item of items) { %>
-<br>
+<h3> <%- item.name %></h3>
 <p>
-    <a href="<%- item.path %>">
-        <img src="<%- item.path %>" style="width:100%;">
+    <a href="<%- item.href %>">
+        <img src="<%- item.href %>">
     </a>
 </p>
 <% } %>
