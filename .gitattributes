@@ -1,0 +1,1 @@
+fr-hes/png/*.png filter=lfs diff=lfs merge=lfs -text
