@@ -1,0 +1,21 @@
+---
+---
+
+## Alwin NAIKEN
+
+::: {layout="[[20,80]]"}
+
+::: {#first-column}
+![](/images/Alwin_Naiken.png){fig-align="left" width="150"}
+:::
+
+::: {#second-column}
+**Alwin NAIKEN**, Ingénieur d'Études.
+
+Alwin NAIKEN est référent instrumentation du site Fr-Hes. Il a en charge la gestion et le développement du parc instrumental du site. Ceci se tradruit par des interventions de maintenance préventive et curative. Il conçoit, adaptate et améliore le dispositif en interaction avec le réseau ICOS et a également en charge le contrôle qualité des données mesurées.
+:::
+
+:::
+
+<a href="mailto:alwin.naiken@inrae.fr">{{< fa solid envelope >}}</a> &nbsp; &nbsp;
+[{{< fa solid globe >}}](alwin_naiken.qmd) &nbsp; &nbsp;

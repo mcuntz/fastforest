@@ -44,6 +44,8 @@ website:
         menu:
           - text: "Research Group"
             href: people/group.qmd
+          - text: "Alwin Naiken"
+            href: people/alwin_naiken.qmd
           - text: "Matthias Cuntz"
             href: people/matthias_cuntz.qmd
           - text: "Zihan Lu"
