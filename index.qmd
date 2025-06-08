@@ -1,6 +1,8 @@
 ---
 ---
 
+<meta name="google-site-verification" content="3o-c_42XN6gF13TbiwWXZ_lgQhf6E6cdLKjY0FLf72w" />
+
 # FastForest
 
 <!-- magick run_forest_run_www.tenstickers-indonesia.com.png -fill '#84a349' -fuzz 90% -opaque '#1c1c1b' run_forest.png -->
