@@ -13,10 +13,11 @@
 **Gabriel Destouet**, Post-Doc.
 
 Gabriel received his PhD in applied mathematics from the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr/), with a strong focus on wavelet analysis and statistical learning. His doctoral research was conducted in the application domain of cybersecurity at the [CEA](https://www.leti-cea.fr/cea-tech/leti). Following his PhD, he joined the [INRAE-Silva lab](https://www.leti-cea.fr/cea-tech/leti), where he currently works on turbulence in forest ecosystems. His principal objective is to better assess forest ecosystem fluxes. Recently, he contributed to a paper on turbulence analysis, which is available at [EGUsphere](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3243/).
+:::
 
 :::
 
 <!-- https://fontawesome.com/search -->
-[{{< fa brands orcid>}} Scholar](https://orcid.org/0000-0001-5402-126X) &nbsp; &nbsp;
+[{{< fa brands orcid >}}](https://orcid.org/0000-0001-5402-126X) &nbsp; &nbsp;
 <a href="mailto:gabriel.destouet@inrae.fr">{{< fa solid envelope >}}</a> &nbsp; &nbsp;
 [{{< fa solid globe >}}](gabriel_destouet.qmd) &nbsp; &nbsp;
