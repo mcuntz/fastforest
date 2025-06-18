@@ -50,6 +50,8 @@ website:
             href: people/matthias_cuntz.qmd
           - text: "Zihan Lu"
             href: people/zihan_lu.qmd
+          - text: "Gabriel Destouet"
+            href: people/gabriel_destouet.qmd
       - text: FR-Hes
         icon: tree
         menu:
