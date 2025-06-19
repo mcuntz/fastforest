@@ -1,0 +1,21 @@
+---
+---
+
+## Sylvain Faller
+
+::: {layout="[[30,70]]"}
+
+::: {#first-column}
+![](/images/Sylvain_Faller.jpg){fig-align="left" width="300"}
+:::
+
+::: {#second-column}
+**Sylvain Faller**, PhD student.
+
+Sylvain is pursuing his PhD as part of a collaboration between the Unit Silva of INRAE Nancy (project [TAW-Tree](/projects/taw-tree.qmd)) and [CNRM](https://www.umr-cnrm.fr/) of Météo Fance in Toulouse. It aims to address two key challenges of modelling drought impacts on forests: 1. Exploring trees’ ability to reach deep water sources in soils, and 2. Revisiting the effects that water stress has on different parts of the vegetation in land surface models. More broadly, this work aims to assess the sensitivity and vulnerability of forest functioning under future climate conditions. This PhD project involves evaluating the land surface model [ISBA-CTRIP](https://www.umr-cnrm.fr/spip.php?article1092), primarily developed by [CNRM](https://www.umr-cnrm.fr/), at both local and regional scales. The goal is to enhance ISBA-CTRIP with a more accurate description of drought impacts on European forests.
+:::
+
+:::
+
+<a href="mailto:sylvain.faller@inrae.fr">{{< fa solid envelope >}}</a> &nbsp; &nbsp;
+[{{< fa solid globe >}}](sylvain_faller.qmd) &nbsp; &nbsp;
