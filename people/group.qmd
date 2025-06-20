@@ -19,7 +19,7 @@
 
 - **Pascal Courtois**, Technician &nbsp; &nbsp; <a href="mailto:pascal.courtois@inrae.fr">{{< fa solid envelope >}}</a>
 
-- **Rumeng He**, PhD Student &nbsp; &nbsp; <a href="mailto:rumeng.he@inrae.fr">{{< fa solid envelope >}}</a>
+- [**Rumeng He**](rumeng_he.qmd), PhD Student &nbsp; &nbsp; <a href="mailto:rumeng.he@inrae.fr">{{< fa solid envelope >}}</a> &nbsp; &nbsp; [{{< fa solid globe >}}](rumeng_he.qmd)
 
 - [**Sylvain Faller**](sylvain_faller.qmd), PhD Student &nbsp; &nbsp; <a href="mailto:sylvain.faller@inrae.fr">{{< fa solid envelope >}}</a> &nbsp; &nbsp; [{{< fa solid globe >}}](sylvain_faller.qmd)
 
