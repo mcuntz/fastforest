@@ -84,18 +84,32 @@
     "text": "Sylvain Faller, PhD student.\nSylvain is pursuing his PhD as part of a collaboration between the Unit Silva of INRAE Nancy (project TAW-Tree) and CNRM of Météo Fance in Toulouse. It aims to address two key challenges of modelling drought impacts on forests: 1. Exploring trees’ ability to reach deep water sources in soils, and 2. Revisiting the effects that water stress has on different parts of the vegetation in land surface models. More broadly, this work aims to assess the sensitivity and vulnerability of forest functioning under future climate conditions. This PhD project involves evaluating the land surface model ISBA-CTRIP, primarily developed by CNRM, at both local and regional scales. The goal is to enhance ISBA-CTRIP with a more accurate description of drought impacts on European forests."
   },
   {
-    "objectID": "people/gabriel_destouet.html",
-    "href": "people/gabriel_destouet.html",
+    "objectID": "people/yasin_gundesli.html",
+    "href": "people/yasin_gundesli.html",
     "title": "FastForest / Home",
     "section": "",
-    "text": "Gabriel Destouet, Post-Doc.\nGabriel received his PhD in applied mathematics from the University of Grenoble Alpes, with a strong focus on wavelet analysis and statistical learning. His doctoral research was conducted in the application domain of cybersecurity at the CEA. Following his PhD, he joined the INRAE-Silva lab, where he currently works on turbulence in forest ecosystems. His principal objective is to better assess forest ecosystem fluxes. Recently, he contributed to a paper on turbulence analysis, which is available at EGUsphere."
+    "text": "Yasin Gundesli, PhD student.\nYasin is a PhD student in forest ecophysiology at INRAE Silva, under the supervision of Emilie Joetzjer, Matthias Cuntz, and Oliver Brendel. His research investigates how the decoupling between photosynthesis and stomatal conductance affects carbon and water fluxes in beech trees (Fagus sylvatica), from the leaf to the whole-tree scale. Combining field experimentation and modelling, Yasin uses gas exchange measurements collected with instruments such as the LICOR 6800, both in greenhouse and forest settings. His work focuses on characterising stomatal and photosynthetic dynamics along the canopy light gradient and throughout the growing season. By fitting dynamic models to these measurements, he aims to quantify how stomatal–photosynthesis decoupling influences daily carbon assimilation and transpiration. This contributes to a better understanding of tree responses to light fluctuations and drought, and of their impact on water and carbon cycling in beech trees."
   },
   {
-    "objectID": "people/gabriel_destouet.html#gabriel-destouet",
-    "href": "people/gabriel_destouet.html#gabriel-destouet",
+    "objectID": "people/yasin_gundesli.html#yasin-gundesli",
+    "href": "people/yasin_gundesli.html#yasin-gundesli",
     "title": "FastForest / Home",
     "section": "",
-    "text": "Gabriel Destouet, Post-Doc.\nGabriel received his PhD in applied mathematics from the University of Grenoble Alpes, with a strong focus on wavelet analysis and statistical learning. His doctoral research was conducted in the application domain of cybersecurity at the CEA. Following his PhD, he joined the INRAE-Silva lab, where he currently works on turbulence in forest ecosystems. His principal objective is to better assess forest ecosystem fluxes. Recently, he contributed to a paper on turbulence analysis, which is available at EGUsphere."
+    "text": "Yasin Gundesli, PhD student.\nYasin is a PhD student in forest ecophysiology at INRAE Silva, under the supervision of Emilie Joetzjer, Matthias Cuntz, and Oliver Brendel. His research investigates how the decoupling between photosynthesis and stomatal conductance affects carbon and water fluxes in beech trees (Fagus sylvatica), from the leaf to the whole-tree scale. Combining field experimentation and modelling, Yasin uses gas exchange measurements collected with instruments such as the LICOR 6800, both in greenhouse and forest settings. His work focuses on characterising stomatal and photosynthetic dynamics along the canopy light gradient and throughout the growing season. By fitting dynamic models to these measurements, he aims to quantify how stomatal–photosynthesis decoupling influences daily carbon assimilation and transpiration. This contributes to a better understanding of tree responses to light fluctuations and drought, and of their impact on water and carbon cycling in beech trees."
+  },
+  {
+    "objectID": "people/alwin_naiken.html",
+    "href": "people/alwin_naiken.html",
+    "title": "FastForest / Home",
+    "section": "",
+    "text": "Alwin NAIKEN, Ingénieur d’Études.\nAlwin NAIKEN est référent instrumentation du site Fr-Hes. Il a en charge la gestion et le développement du parc instrumental du site. Ceci se tradruit par des interventions de maintenance préventive et curative. Il conçoit, adaptate et améliore le dispositif en interaction avec le réseau ICOS et a également en charge le contrôle qualité des données mesurées."
+  },
+  {
+    "objectID": "people/alwin_naiken.html#alwin-naiken",
+    "href": "people/alwin_naiken.html#alwin-naiken",
+    "title": "FastForest / Home",
+    "section": "",
+    "text": "Alwin NAIKEN, Ingénieur d’Études.\nAlwin NAIKEN est référent instrumentation du site Fr-Hes. Il a en charge la gestion et le développement du parc instrumental du site. Ceci se tradruit par des interventions de maintenance préventive et curative. Il conçoit, adaptate et améliore le dispositif en interaction avec le réseau ICOS et a également en charge le contrôle qualité des données mesurées."
   },
   {
     "objectID": "people/matthias_cuntz.html",
@@ -112,18 +126,18 @@
     "text": "Matthias Cuntz, Directeur de Recherche.\nMatthias received his PhD in physics (Heidelberg) and has subsequently been working in atmospheric physics (Paris), biology (Canberra), biogeochemical cycles (Jena), and hydrology (Leipzig). He is PI of the ICOS class 1 ecosystem site FR-Hes and is key developer of the ecosystem model MuSICA as well as of the global land surface model CABLE-POP. This allows him to combine measurements and modelling to understand and describe mathematically the processes the processes of the exchanges between the biosphere and the atmosphere, scaling from single leaves and greenhouse observations over fluxes measured and modelled at the ecosystem up to the continental and global scale.\n\n\n\n\n Scholar"
   },
   {
-    "objectID": "people/alwin_naiken.html",
-    "href": "people/alwin_naiken.html",
+    "objectID": "people/gabriel_destouet.html",
+    "href": "people/gabriel_destouet.html",
     "title": "FastForest / Home",
     "section": "",
-    "text": "Alwin NAIKEN, Ingénieur d’Études.\nAlwin NAIKEN est référent instrumentation du site Fr-Hes. Il a en charge la gestion et le développement du parc instrumental du site. Ceci se tradruit par des interventions de maintenance préventive et curative. Il conçoit, adaptate et améliore le dispositif en interaction avec le réseau ICOS et a également en charge le contrôle qualité des données mesurées."
+    "text": "Gabriel Destouet, Post-Doc.\nGabriel received his PhD in applied mathematics from the University of Grenoble Alpes, with a strong focus on wavelet analysis and statistical learning. His doctoral research was conducted in the application domain of cybersecurity at the CEA. Following his PhD, he joined the INRAE-Silva lab, where he currently works on turbulence in forest ecosystems. His principal objective is to better assess forest ecosystem fluxes. Recently, he contributed to a paper on turbulence analysis, which is available at EGUsphere."
   },
   {
-    "objectID": "people/alwin_naiken.html#alwin-naiken",
-    "href": "people/alwin_naiken.html#alwin-naiken",
+    "objectID": "people/gabriel_destouet.html#gabriel-destouet",
+    "href": "people/gabriel_destouet.html#gabriel-destouet",
     "title": "FastForest / Home",
     "section": "",
-    "text": "Alwin NAIKEN, Ingénieur d’Études.\nAlwin NAIKEN est référent instrumentation du site Fr-Hes. Il a en charge la gestion et le développement du parc instrumental du site. Ceci se tradruit par des interventions de maintenance préventive et curative. Il conçoit, adaptate et améliore le dispositif en interaction avec le réseau ICOS et a également en charge le contrôle qualité des données mesurées."
+    "text": "Gabriel Destouet, Post-Doc.\nGabriel received his PhD in applied mathematics from the University of Grenoble Alpes, with a strong focus on wavelet analysis and statistical learning. His doctoral research was conducted in the application domain of cybersecurity at the CEA. Following his PhD, he joined the INRAE-Silva lab, where he currently works on turbulence in forest ecosystems. His principal objective is to better assess forest ecosystem fluxes. Recently, he contributed to a paper on turbulence analysis, which is available at EGUsphere."
   },
   {
     "objectID": "people/group.html",
