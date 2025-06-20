@@ -1,0 +1,24 @@
+---
+---
+
+## Yasin Gundesli
+
+::: {layout="[[30,70]]"}
+
+::: {#first-column}
+![](/images/Yasin_Gundesli.jpg){fig-align="left" width="300"}
+:::
+
+::: {#second-column}
+**Yasin Gundesli**, PhD student.
+
+Yasin is a PhD student in forest ecophysiology at [INRAE Silva](https://www6.nancy.inrae.fr/silva/), under the supervision of Emilie Joetzjer, Matthias Cuntz, and Oliver Brendel. His research investigates how the decoupling between photosynthesis and stomatal conductance affects **carbon and water fluxes** in beech trees (*Fagus sylvatica*), from the **leaf to the whole-tree scale**.
+Combining field experimentation and modelling, Yasin uses gas exchange measurements collected with instruments such as the **LICOR 6800**, both in greenhouse and forest settings. His work focuses on characterising stomatal and photosynthetic dynamics along the **canopy light gradient** and **throughout the growing season**.
+By fitting dynamic models to these measurements, he aims to quantify how stomatal–photosynthesis decoupling influences **daily carbon assimilation and transpiration**. This contributes to a better understanding of tree responses to light fluctuations and drought, and of their impact on **water and carbon cycling in beech trees**.
+
+:::
+
+:::
+
+<a href="mailto:yasin.gundesli@inrae.fr">{{< fa solid envelope >}}</a> &nbsp; &nbsp;  
+[{{< fa solid globe >}}](yasin_gundesli.qmd) &nbsp; &nbsp;
