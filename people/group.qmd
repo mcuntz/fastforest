@@ -23,9 +23,9 @@
 
 - [**Sylvain Faller**](sylvain_faller.qmd), PhD Student &nbsp; &nbsp; <a href="mailto:sylvain.faller@inrae.fr">{{< fa solid envelope >}}</a> &nbsp; &nbsp; [{{< fa solid globe >}}](sylvain_faller.qmd)
 
-- **Yasin Gundesli**, PhD Student &nbsp; &nbsp; <a href="mailto:yasin.gundesli@inrae.fr">{{< fa solid envelope >}}</a>
+- [**Yasin Gundesli**](yasin_gundesli.qmd), PhD Student &nbsp; &nbsp; <a href="mailto:yasin.gundesli@inrae.fr">{{< fa solid envelope >}}</a> &nbsp; &nbsp; [{{< fa solid globe >}}](yasin_gundesli.qmd)
 
-- [**Zihan Lu**](zihan_lu.qmd), Postdoc &nbsp; &nbsp; <a href="mailto:zihan.lu@inrae.fr">{{< fa solid envelope >}}</a> &nbsp; &nbsp; [{{< fa solid globe >}}](zihan_lu.qmd) &nbsp; &nbsp;
+- [**Zihan Lu**](zihan_lu.qmd), Postdoc &nbsp; &nbsp; <a href="mailto:zihan.lu@inrae.fr">{{< fa solid envelope >}}</a> &nbsp; &nbsp; [{{< fa solid globe >}}](zihan_lu.qmd)
 
 <hr>
 
