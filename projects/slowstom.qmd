@@ -5,7 +5,7 @@
 
 **Funding**: Laboratory of Excellence Advanced Research on the Biology of Tree and Forest Ecosystems (ARBRE; grant ANR-11-LABX-0002-01) and Université de Lorraine.
 
-**Partners**: Groups FARE and ForeSTree of Silva (INRAE Nancy). Coordinated by Emilie Joetzjer (ForeSTree).
+**Partners**: Groups PHARE and ForeSTree of Silva (INRAE Nancy). Coordinated by Emilie Joetzjer (ForeSTree).
 
 ![](/images/McAusland_et_al_2016-fig_1.png){fig-align="center" width="600"}
 
