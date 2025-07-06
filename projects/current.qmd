@@ -1,7 +1,4 @@
 ---
-format:
-  html:
-    toc-depth: 3
 ---
 
 ## Current projects
