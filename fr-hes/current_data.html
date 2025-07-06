@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Current data – FastForest / Home</title>
+<title>current_data – FastForest / Home</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -77,20 +77,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-data .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-name','listing-href',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-name','listing-categories','listing-href',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-name","listing-href"],
+      searchColumns: ["listing-name","listing-categories","listing-href"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-data'] = new List('listing-data', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -488,128 +488,139 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-unnumbered"><div class="category" data-category="QWly">Air</div><div class="category" data-category="QWlyJTIwY29tcG9uZW50cw==">Air components</div><div class="category" data-category="QmVsb3ctY2Fub3B5JTIwcmFkaWF0aW9u">Below-canopy radiation</div><div class="category" data-category="RWRkeSUyMHN5c3RlbQ==">Eddy system</div><div class="category" data-category="TWl4ZWQlMjByYWRpYXRpb24=">Mixed radiation</div><div class="category" data-category="UHJlY2lwaXRhdGlvbg==">Precipitation</div><div class="category" data-category="UmFkaWF0aW9u">Radiation</div><div class="category" data-category="U29pbCUyMGhlYXQlMjBmbHV4">Soil heat flux</div><div class="category" data-category="U29pbCUyMG1vaXN0dXJl">Soil moisture</div><div class="category" data-category="U29pbCUyMHRlbXBlcmF0dXJl">Soil temperature</div><div class="category" data-category="VHJlZSUyMHRydW5rcw==">Tree trunks</div><div class="category" data-category="V2F0ZXIlMjB0YWJsZSUyMGRlcHRo">Water table depth</div><div class="category" data-category="V2luZA==">Wind</div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Current data</h1>
+
+
+
+<section id="current-data" class="level2">
+<h2 class="anchored" data-anchor-id="current-data">Current data</h2>
+<p style="margin-bottom:10em;">
+</p>
+<div id="listing-data" class="quarto-listing quarto-listing-container-custom">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<ul class="list">
+<li data-index="0" data-categories="QWly">
+<h3 class="anchored">
+Air
+</h3>
+<p><a href="https://www.macu.de/fr-hes/air.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/air.png"> </a> <br> <span class="listing-custom-field"></span></p>
+<span>
+</span></li>
+<li data-index="1" data-categories="QWlyJTIwY29tcG9uZW50cw==">
+<h3 class="anchored">
+Air components
+</h3>
+<p><a href="https://www.macu.de/fr-hes/air_components_composition.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/air_components_composition.png"> </a> <br> <span class="listing-custom-field"></span></p>
+<span>
+</span></li>
+<li data-index="2" data-categories="UmFkaWF0aW9u">
+<h3 class="anchored">
+Radiation
+</h3>
+<p><a href="https://www.macu.de/fr-hes/ray.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/ray.png"> </a> <br> <span class="listing-custom-field"></span></p>
+<span>
+</span></li>
+<li data-index="3" data-categories="TWl4ZWQlMjByYWRpYXRpb24=">
+<h3 class="anchored">
+Mixed radiation
+</h3>
+<p><a href="https://www.macu.de/fr-hes/ray_mixte.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/ray_mixte.png"> </a> <br> <span class="listing-custom-field"></span></p>
+<span>
+</span></li>
+<li data-index="4" data-categories="QmVsb3ctY2Fub3B5JTIwcmFkaWF0aW9u">
+<h3 class="anchored">
+Below-canopy radiation
+</h3>
+<p><a href="https://www.macu.de/fr-hes/ray_on_soil.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/ray_on_soil.png"> </a> <br> <span class="listing-custom-field"></span></p>
+<span>
+</span></li>
+<li data-index="5" data-categories="UHJlY2lwaXRhdGlvbg==">
+<h3 class="anchored">
+Precipitation
+</h3>
+<p><a href="https://www.macu.de/fr-hes/pluvio.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/pluvio.png"> </a> <br> <span class="listing-custom-field"></span></p>
+<span>
+</span></li>
+<li data-index="6" data-categories="V2luZA==">
+<h3 class="anchored">
+Wind
+</h3>
+<p><a href="https://www.macu.de/fr-hes/wind.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/wind.png"> </a> <br> <span class="listing-custom-field"></span></p>
+<span>
+</span></li>
+<li data-index="7" data-categories="U29pbCUyMGhlYXQlMjBmbHV4">
+<h3 class="anchored">
+Soil heat flux
+</h3>
+<p><a href="https://www.macu.de/fr-hes/soil_heat_flux.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/soil_heat_flux.png"> </a> <br> <span class="listing-custom-field"></span></p>
+<span>
+</span></li>
+<li data-index="8" data-categories="U29pbCUyMHRlbXBlcmF0dXJl">
+<h3 class="anchored">
+Soil temperature
+</h3>
+<p><a href="https://www.macu.de/fr-hes/soil_temperature.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/soil_temperature.png"> </a> <br> <span class="listing-custom-field"></span></p>
+<span>
+</span></li>
+<li data-index="9" data-categories="U29pbCUyMHRlbXBlcmF0dXJl">
+<h3 class="anchored">
+</h3>
+<p><a href="https://www.macu.de/fr-hes/soil_temperature_2D.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/soil_temperature_2D.png"> </a> <br> <span class="listing-custom-field"></span></p>
+<span>
+</span></li>
+<li data-index="10" data-categories="U29pbCUyMG1vaXN0dXJl">
+<h3 class="anchored">
+Soil moisture
+</h3>
+<p><a href="https://www.macu.de/fr-hes/soil_moisture.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/soil_moisture.png"> </a> <br> <span class="listing-custom-field"></span></p>
+<span>
+</span></li>
+<li data-index="11" data-categories="U29pbCUyMG1vaXN0dXJl">
+<h3 class="anchored">
+</h3>
+<p><a href="https://www.macu.de/fr-hes/soil_moisture_2D.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/soil_moisture_2D.png"> </a> <br> <span class="listing-custom-field"></span></p>
+<span>
+</span></li>
+<li data-index="12" data-categories="V2F0ZXIlMjB0YWJsZSUyMGRlcHRo">
+<h3 class="anchored">
+Water table depth
+</h3>
+<p><a href="https://www.macu.de/fr-hes/soil_water_height.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/soil_water_height.png"> </a> <br> <span class="listing-custom-field"></span></p>
+<span>
+</span></li>
+<li data-index="13" data-categories="RWRkeSUyMHN5c3RlbQ==">
+<h3 class="anchored">
+Eddy system
+</h3>
+<p><a href="https://www.macu.de/fr-hes/licor.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/licor.png"> </a> <br> <span class="listing-custom-field"></span></p>
+<span>
+</span></li>
+<li data-index="14" data-categories="VHJlZSUyMHRydW5rcw==">
+<h3 class="anchored">
+Tree trunks
+</h3>
+<p><a href="https://www.macu.de/fr-hes/tree_trunk.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/tree_trunk.png"> </a> <br> <span class="listing-custom-field"></span></p>
+<span>
+</span></li>
+</ul>
+<div class="listing-no-matching d-none">No matching items</div>
 </div>
 
 
 
-<div class="quarto-title-meta">
+</section>
 
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<!-- <iframe width=100% height=100% src="https://meta.icos-cp.eu/resources/stations/ES_FR-Hes"></iframe> -->
-
-
-
-
-<div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
-<h3 class="anchored">
-Air
-</h3>
-<p>
-<a href="https://www.macu.de/fr-hes/air.png"> <img src="https://www.macu.de/fr-hes/air.png"> </a>
-</p>
-<h3 class="anchored">
-Air components
-</h3>
-<p>
-<a href="https://www.macu.de/fr-hes/air_components_composition.png"> <img src="https://www.macu.de/fr-hes/air_components_composition.png"> </a>
-</p>
-<h3 class="anchored">
-Radiation
-</h3>
-<p>
-<a href="https://www.macu.de/fr-hes/ray.png"> <img src="https://www.macu.de/fr-hes/ray.png"> </a>
-</p>
-<h3 class="anchored">
-Mixed radiation
-</h3>
-<p>
-<a href="https://www.macu.de/fr-hes/ray_mixte.png"> <img src="https://www.macu.de/fr-hes/ray_mixte.png"> </a>
-</p>
-<h3 class="anchored">
-Below-canopy Radiation
-</h3>
-<p>
-<a href="https://www.macu.de/fr-hes/ray_on_soil.png"> <img src="https://www.macu.de/fr-hes/ray_on_soil.png"> </a>
-</p>
-<h3 class="anchored">
-Precipitation
-</h3>
-<p>
-<a href="https://www.macu.de/fr-hes/pluvio.png"> <img src="https://www.macu.de/fr-hes/pluvio.png"> </a>
-</p>
-<h3 class="anchored">
-Wind
-</h3>
-<p>
-<a href="https://www.macu.de/fr-hes/wind.png"> <img src="https://www.macu.de/fr-hes/wind.png"> </a>
-</p>
-<h3 class="anchored">
-Soil heat flux
-</h3>
-<p>
-<a href="https://www.macu.de/fr-hes/soil_heat_flux.png"> <img src="https://www.macu.de/fr-hes/soil_heat_flux.png"> </a>
-</p>
-<h3 class="anchored">
-Soil temperature
-</h3>
-<p>
-<a href="https://www.macu.de/fr-hes/soil_temperature.png"> <img src="https://www.macu.de/fr-hes/soil_temperature.png"> </a>
-</p>
-<h3 class="anchored">
-</h3>
-<p>
-<a href="https://www.macu.de/fr-hes/soil_temperature_2D.png"> <img src="https://www.macu.de/fr-hes/soil_temperature_2D.png"> </a>
-</p>
-<h3 class="anchored">
-Soil moisture
-</h3>
-<p>
-<a href="https://www.macu.de/fr-hes/soil_moisture.png"> <img src="https://www.macu.de/fr-hes/soil_moisture.png"> </a>
-</p>
-<h3 class="anchored">
-</h3>
-<p>
-<a href="https://www.macu.de/fr-hes/soil_moisture_2D.png"> <img src="https://www.macu.de/fr-hes/soil_moisture_2D.png"> </a>
-</p>
-<h3 class="anchored">
-Water table depth
-</h3>
-<p>
-<a href="https://www.macu.de/fr-hes/soil_water_height.png"> <img src="https://www.macu.de/fr-hes/soil_water_height.png"> </a>
-</p>
-<h3 class="anchored">
-Eddy system
-</h3>
-<p>
-<a href="https://www.macu.de/fr-hes/licor.png"> <img src="https://www.macu.de/fr-hes/licor.png"> </a>
-</p>
-<h3 class="anchored">
-Tree trunks
-</h3>
-<p>
-<a href="https://www.macu.de/fr-hes/tree_trunk.png"> <img src="https://www.macu.de/fr-hes/tree_trunk.png"> </a>
-</p>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
