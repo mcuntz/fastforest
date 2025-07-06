@@ -1,6 +1,7 @@
 ---
 format:
   html:
+    toc: false
     include-in-header:
       - text: |
           <meta name="google-site-verification" content="3o-c_42XN6gF13TbiwWXZ_lgQhf6E6cdLKjY0FLf72w" />

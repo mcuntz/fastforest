@@ -1,4 +1,7 @@
 ---
+format:
+  html:
+    toc: false
 ---
 
 ## LSMxAI -- Better projections of future climate change – using explainable AI to improve land surface models

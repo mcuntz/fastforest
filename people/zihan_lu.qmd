@@ -1,4 +1,7 @@
 ---
+format:
+  html:
+    toc: false
 ---
 
 ## Zihan Lu

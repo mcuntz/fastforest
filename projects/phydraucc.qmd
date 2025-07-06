@@ -1,4 +1,7 @@
 ---
+format:
+  html:
+    toc: false
 ---
 
 ## PHydrauCC –- Plant Hydraulic Functioning in face of Climate Change

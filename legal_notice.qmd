@@ -1,3 +1,9 @@
+---
+format:
+  html:
+    toc: false
+---
+
 ## Legal Notices
 
 (informative sites with no paid content or services)

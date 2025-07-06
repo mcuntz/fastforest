@@ -1,4 +1,7 @@
 ---
+format:
+  html:
+    toc: false
 ---
 
 ## SlowStom -- Influence of slow stomatal responses on ecosystem fluxes and water-use efficiency

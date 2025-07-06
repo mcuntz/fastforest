@@ -109,6 +109,7 @@ format:
     respect-user-color-scheme: true
     css: resources/styles.css
     toc: true
+    toc-depth: 3
     # grid:
     #   sidebar-width: 50px
     #   body-width: 1150px

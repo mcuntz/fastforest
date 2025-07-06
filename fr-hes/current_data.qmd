@@ -1,38 +1,18 @@
 ---
-title: "Current data"
+format:
+  html:
+    toc: false
 listing:
-  contents:
-    - name: Air
-      href: https://www.macu.de/fr-hes/air.png
-    - name: Air components
-      href: https://www.macu.de/fr-hes/air_components_composition.png
-    - name: Radiation
-      href: https://www.macu.de/fr-hes/ray.png
-    - name: Mixed radiation
-      href: https://www.macu.de/fr-hes/ray_mixte.png
-    - name: Below-canopy Radiation
-      href: https://www.macu.de/fr-hes/ray_on_soil.png
-    - name: Precipitation
-      href: https://www.macu.de/fr-hes/pluvio.png
-    - name: Wind
-      href: https://www.macu.de/fr-hes/wind.png
-    - name: Soil heat flux
-      href: https://www.macu.de/fr-hes/soil_heat_flux.png
-    - name: Soil temperature
-      href: https://www.macu.de/fr-hes/soil_temperature.png
-    - name: ""
-      href: https://www.macu.de/fr-hes/soil_temperature_2D.png
-    - name: Soil moisture
-      href: https://www.macu.de/fr-hes/soil_moisture.png
-    - name: ""
-      href: https://www.macu.de/fr-hes/soil_moisture_2D.png
-    - name: Water table depth
-      href: https://www.macu.de/fr-hes/soil_water_height.png
-    - name: Eddy system
-      href: https://www.macu.de/fr-hes/licor.png
-    - name: Tree trunks
-      href: https://www.macu.de/fr-hes/tree_trunk.png
-  template: image.ejs
+  categories: unnumbered
+  filter-ui: true
+  id: data
+  template: data.ejs
+  contents: data.yml
 ---
 
-<!-- <iframe width=100% height=100% src="https://meta.icos-cp.eu/resources/stations/ES_FR-Hes"></iframe> -->
+## Current data
+
+<p style="margin-bottom:10em;"></p>
+
+::: {#data}
+:::

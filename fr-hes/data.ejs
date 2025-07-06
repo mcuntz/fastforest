@@ -1,0 +1,16 @@
+<ul class="list">
+  <% for (const item of items) { %>
+
+    <li <%= metadataAttrs(item) %>>
+      <h3> <%- item.name %> </h3>
+
+      <a href="<%- item.href %>" class="listing-name">
+        <img src="<%- item.href %>">
+      </a>
+      <br/>
+      <span class="listing-custom-field">
+        <%= item['custom-field'] %>
+      <span>
+    </li>
+  <% } %>
+</ul>

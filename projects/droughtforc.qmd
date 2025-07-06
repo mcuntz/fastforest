@@ -1,4 +1,7 @@
 ---
+format:
+  html:
+    toc: false
 ---
 
 ## Drought ForC -- Drought impacts on carbon stocks and fluxes in forest ecosystems: experiments and modeling
