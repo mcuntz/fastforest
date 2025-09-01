@@ -39,6 +39,11 @@ website:
             href: projects/droughtforc.qmd
           - text: "EuropeDrought"
             href: projects/europedrought.qmd
+          - text: "PsycH20"
+            href: projects/psycho.qmd
+         - text: "geosic"
+            href: projects/geosic.qmd
+
       - text: People
         icon: people
         menu:
