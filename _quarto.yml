@@ -58,6 +58,8 @@ website:
             href: people/yasin_gundesli.qmd
           - text: "Zihan Lu"
             href: people/zihan_lu.qmd
+          - text: "Emilie Joetzjer"
+            href: people/emilie_joetzjer.qmd
       - text: FR-Hes
         icon: tree
         menu:
