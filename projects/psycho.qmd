@@ -1,0 +1,13 @@
+---
+format:
+  html:
+    toc: false
+---
+
+## PSYCH20 -- High-resolution measuring and modelling of water potential along the forest canopy
+
+**Funding**: Artemis
+
+Plants regulate their stomata to balance carbon uptake and water release, and to provide a hydraulic safety for the plant tissue, protecting it from cavitation. Stomata respond hence to demand from atmospheric vapor pressure deficit (VPD) and to pressure from reduced from soil water content (SWC). Current mathematical descriptions of stomatal conductance (gₛ) describe VPD responses and SWC responses independently, but the water potential (Ψ) forms a continuum from the atmosphere through leaf and plant to the soil. This so-called plant hydraulics is currently investigated in land surface models. However, the plant hydraulic models are only very weakly constrained by existing point-wise measurements of leaf water potentials. The proposed project aims to address this gap by leveraging innovative sensor technologies to continuously and simultaneously measure water potential (Ψ) gradients within trees, from trunk to canopy, capturing the dynamic interplay between slow SWC variations and rapid VPD fluctuations. The measurements together with the entire range of observations at the ICOS site FR-Hes will enable the resolution of combined VPD-SWC effects on gₛ. The high- resolution measurements will be used to constrain plant hydraulic models and decide on the most parsimonious description in land surface models.
+
+
