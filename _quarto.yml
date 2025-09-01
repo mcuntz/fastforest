@@ -41,7 +41,7 @@ website:
             href: projects/europedrought.qmd
           - text: "PsycH20"
             href: projects/psycho.qmd
-         - text: "Geosic"
+          - text: "Geosic"
             href: projects/geosic.qmd
       - text: People
         icon: people
