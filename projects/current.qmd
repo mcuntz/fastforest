@@ -55,3 +55,21 @@
 **Funding**: Meteo France and [TAW-tree](taw-tree.qmd)
 
 **Partners**: Silva (INRAE Nancy), CNRM (Meteo France, Toulouse). Coordinated by Emilie Joetzjer (Silva)
+
+### PsycH20 
+
+** Funding ** : ARTEMIS
+
+**Partners**:  Silva (INRAE Nancy)
+
+### Geosic 
+
+**Funding**: PEPR TRACCS 
+
+**Partners**: CNRS/IPSL, Meteo-France/CNRS, CNRS/CECI, INRAE/SILVA, IRSEM. Coordinated by Anni Maattanen (IPSL)
+
+
+
+
+
+
