@@ -1,0 +1,46 @@
+---
+format:
+  html:
+    toc: false
+---
+
+## GEOSIC -- Geopolitics and science of interventions on the climate
+
+**Funding**: PEPR TRACCS 
+
+**Partners**: CNRS/IPSL, Meteo-France/CNRM, CNRS/CECI, INRAE/SILVA, IRSEM. Coordinated by Anni Maattanen (IPSL)
+
+![](/images/geosic.png){fig-align="center" width="600"}
+
+In a world where the necessary transition is not occurring fast enough, technological solutions to
+the climate crisis are increasingly favoured by decision-makers, but widely debated within the
+scientific community. The majority of these solutions are based on climate intervention (CI) methods
+that are grouped into two broad categories. Techniques that remove and store atmospheric CO2
+(CDR), and techniques to correct the radiative imbalance caused by the accumulation of
+greenhouse gases in the atmosphere by increasing the planet's albedo (SRM).
+
+Current research does not sufficiently quantify the risks and uncertainties of these methods individually, nor their
+combined effects. Emissions scenarios for limiting global warming to 2°C include CDR, while the
+controversies surrounding SRM exclude it from the framework of future scenarios. In addition, the
+(geo)political and social components that will ultimately define the deployment of these techniques
+has not included the latest physical science research conducted on these topics. In order to inform
+future decisions, we need to account for all possibilities.
+
+The GEOSIC project will combine studies of climate intervention techniques, individually and by studying their interactions, with geopolitical
+scenarios that encompass the variety of proposals. GEOSIC will address topics including the
+Incorporation of geopolitical scenarios in CI model simulations, the detectability of SRM deployment
+and its possible teleconnections; CDR (including ocean-based approaches) efficiency in various
+scenarios and its feasibility, carbon stock vulnerability and related uncertainties; interactions
+between SRM and CDR to understand their combined potential and synergies/antagonisms. These
+physical science questions will be interfaced with geopolitical issues concerning possible
+deployment governance; the conflict-generating nature of SRM deployment in a climate
+securitization context and the anticipation and prevention of such conflicts; climate injustice and
+inequalities linked to the heterogeneous access and deployment capacities of CI techniques; and
+their socio-environmental sustainability. Cross-disciplinary actions combining these questions
+complete this interdisciplinary project, producing a comprehensive vision of the CI landscape.
+Finally, to better predict the regional impacts of climate change and support necessary adaptation
+measures, a unique outcome of this project will be to focus on a future France in a new climate
+state. This includes France’s CDR needs to attain the national low-carbon trajectory and how SRM
+deployment would impact this. The results of the mentioned interdisciplinary studies will be re-
+examined at national level, providing an evaluation of the impacts and adaptation to climate change
+in the various scenarios.
