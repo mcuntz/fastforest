@@ -2,78 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://mcuntz.github.io/fastforest/index.html</loc>
-    <lastmod>2025-09-01T15:18:05.714Z</lastmod>
+    <lastmod>2025-09-01T15:18:39.971Z</lastmod>
   </url>
   <url>
     <loc>http://mcuntz.github.io/fastforest/tools/overview.html</loc>
-    <lastmod>2025-09-01T15:18:05.717Z</lastmod>
+    <lastmod>2025-09-01T15:18:39.973Z</lastmod>
   </url>
   <url>
     <loc>http://mcuntz.github.io/fastforest/people/gabriel_destouet.html</loc>
-    <lastmod>2025-09-01T15:18:05.714Z</lastmod>
+    <lastmod>2025-09-01T15:18:39.971Z</lastmod>
   </url>
   <url>
-    <loc>http://mcuntz.github.io/fastforest/people/rumeng_he.html</loc>
-    <lastmod>2025-09-01T15:18:05.715Z</lastmod>
-  </url>
-  <url>
-    <loc>http://mcuntz.github.io/fastforest/people/zihan_lu.html</loc>
-    <lastmod>2025-09-01T15:18:05.715Z</lastmod>
-  </url>
-  <url>
-    <loc>http://mcuntz.github.io/fastforest/people/matthias_cuntz.html</loc>
-    <lastmod>2025-09-01T15:18:05.715Z</lastmod>
-  </url>
-  <url>
-    <loc>http://mcuntz.github.io/fastforest/projects/droughtforc.html</loc>
-    <lastmod>2025-09-01T15:18:05.715Z</lastmod>
-  </url>
-  <url>
-    <loc>http://mcuntz.github.io/fastforest/projects/phydraucc.html</loc>
-    <lastmod>2025-09-01T15:18:05.715Z</lastmod>
-  </url>
-  <url>
-    <loc>http://mcuntz.github.io/fastforest/projects/slowstom.html</loc>
-    <lastmod>2025-09-01T15:18:05.715Z</lastmod>
-  </url>
-  <url>
-    <loc>http://mcuntz.github.io/fastforest/projects/europedrought.html</loc>
-    <lastmod>2025-09-01T15:18:05.715Z</lastmod>
-  </url>
-  <url>
-    <loc>http://mcuntz.github.io/fastforest/projects/current.html</loc>
-    <lastmod>2025-09-01T15:18:05.715Z</lastmod>
-  </url>
-  <url>
-    <loc>http://mcuntz.github.io/fastforest/projects/taw-tree.html</loc>
-    <lastmod>2025-09-01T15:18:05.715Z</lastmod>
-  </url>
-  <url>
-    <loc>http://mcuntz.github.io/fastforest/projects/lsmxai.html</loc>
-    <lastmod>2025-09-01T15:18:05.715Z</lastmod>
-  </url>
-  <url>
-    <loc>http://mcuntz.github.io/fastforest/legal_notice.html</loc>
-    <lastmod>2025-09-01T15:18:05.714Z</lastmod>
-  </url>
-  <url>
-    <loc>http://mcuntz.github.io/fastforest/people/group.html</loc>
-    <lastmod>2025-09-01T15:18:05.715Z</lastmod>
+    <loc>http://mcuntz.github.io/fastforest/people/emilie_joetzjer.html</loc>
+    <lastmod>2025-09-01T15:18:39.971Z</lastmod>
   </url>
   <url>
     <loc>http://mcuntz.github.io/fastforest/people/sylvain_faller.html</loc>
-    <lastmod>2025-09-01T15:18:05.715Z</lastmod>
+    <lastmod>2025-09-01T15:18:39.972Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mcuntz.github.io/fastforest/people/group.html</loc>
+    <lastmod>2025-09-01T15:18:39.971Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mcuntz.github.io/fastforest/legal_notice.html</loc>
+    <lastmod>2025-09-01T15:18:39.971Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mcuntz.github.io/fastforest/projects/lsmxai.html</loc>
+    <lastmod>2025-09-01T15:18:39.972Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mcuntz.github.io/fastforest/projects/taw-tree.html</loc>
+    <lastmod>2025-09-01T15:18:39.972Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mcuntz.github.io/fastforest/projects/current.html</loc>
+    <lastmod>2025-09-01T15:18:39.972Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mcuntz.github.io/fastforest/projects/europedrought.html</loc>
+    <lastmod>2025-09-01T15:18:39.972Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mcuntz.github.io/fastforest/projects/slowstom.html</loc>
+    <lastmod>2025-09-01T15:18:39.972Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mcuntz.github.io/fastforest/projects/phydraucc.html</loc>
+    <lastmod>2025-09-01T15:18:39.972Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mcuntz.github.io/fastforest/projects/droughtforc.html</loc>
+    <lastmod>2025-09-01T15:18:39.972Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mcuntz.github.io/fastforest/people/matthias_cuntz.html</loc>
+    <lastmod>2025-09-01T15:18:39.971Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mcuntz.github.io/fastforest/people/zihan_lu.html</loc>
+    <lastmod>2025-09-01T15:18:39.972Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mcuntz.github.io/fastforest/people/rumeng_he.html</loc>
+    <lastmod>2025-09-01T15:18:39.971Z</lastmod>
   </url>
   <url>
     <loc>http://mcuntz.github.io/fastforest/people/alwin_naiken.html</loc>
-    <lastmod>2025-09-01T15:18:05.714Z</lastmod>
+    <lastmod>2025-09-01T15:18:39.971Z</lastmod>
   </url>
   <url>
     <loc>http://mcuntz.github.io/fastforest/people/yasin_gundesli.html</loc>
-    <lastmod>2025-09-01T15:18:05.715Z</lastmod>
+    <lastmod>2025-09-01T15:18:39.972Z</lastmod>
   </url>
   <url>
     <loc>http://mcuntz.github.io/fastforest/fr-hes/current_data.html</loc>
-    <lastmod>2025-09-01T15:18:05.684Z</lastmod>
+    <lastmod>2025-09-01T15:18:39.941Z</lastmod>
   </url>
 </urlset>
