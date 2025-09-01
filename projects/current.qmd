@@ -58,7 +58,7 @@
 
 ### PsycH20 
 
-[High-resolution measuring and modelling of water potential along the forest canopy][psycho.qmd]
+[High-resolution measuring and modelling of water potential along the forest canopy](psycho.qmd)
 
 ** Funding ** : ARTEMIS
 
@@ -66,7 +66,7 @@
 
 ### Geosic 
 
-[Geopolitics and science of interventions on the climate][geosic.qmd]
+[Geopolitics and science of interventions on the climate](geosic.qmd)
 **Funding**: PEPR TRACCS 
 
 **Partners**: CNRS/IPSL, Meteo-France/CNRS, CNRS/CECI, INRAE/SILVA, IRSEM. Coordinated by Anni Maattanen (IPSL)
