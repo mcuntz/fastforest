@@ -1,0 +1,23 @@
+---
+---
+
+## Emilie Joetzjer
+
+::: {layout="[[20,80]]"}
+
+::: {#first-column}
+![](/images/Emilie_Joetzjer.jpg){fig-align="left" width="150"}
+:::
+
+::: {#second-column}
+**Emilie Joetzjer**, Research scientist (chargée de recherche).
+
+Emilie is a land surface modeler, ecophysiologist, and climate scientist who combines multiple approaches to better understand how forests respond to climate variability. She earned her PhD in 2014 at [Météo France/CNRM](https://www.umr-cnrm.fr/) and [LSCE](https://www.lsce.ipsl.fr/), and held post-doc positions at the [Montana State University](https://www.montana.edu/) and [CRBE](https://crbe.cnrs.fr/en/) before joining [SILVA](https://silva.nancy.hub.inrae.fr/). Her research focuses on the interactions between water and carbon cycles and climate variability. Emilie contributes to the development of the [SURFEX](https://www.umr-cnrm.fr/spip.php?article1092) land surface model and is involved in the [ICOS](https://www.icos-cp.eu/) network as co-PI at the [FR-Hes](https://meta.icos-cp.eu/resources/stations/ES_FR-Hes) station.  
+
+:::
+:::
+
+[{{< fa brands google >}} Scholar](https://scholar.google.com/citations?user=HbGvaIIAAAAJ&hl=fr) &nbsp; &nbsp;
+[{{< fa brands bluesky >}}](https://bsky.app/profile/e-joetzjer.bsky.social) &nbsp; &nbsp;
+<a href="mailto:emilie.joetzjer@inrae.fr">{{< fa solid envelope >}}</a> &nbsp; &nbsp;
+[{{< fa solid globe >}}](emilie_joetzjer.qmd) &nbsp; &nbsp;
