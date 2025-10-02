@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,18 +35,19 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-befe23ebd2f54d8af2c8a89d1a1611f1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-fbb42cfd1ce1ad51885f2f02c7001316.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-4851cdf46c791c034a804cc2e96f8850.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-fbb42cfd1ce1ad51885f2f02c7001316.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-727edb63c5dee69561a5436351a37f58.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-1b2dbb1da5437787ceb60cc160e2f451.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-727edb63c5dee69561a5436351a37f58.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -118,7 +119,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -316,7 +317,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../images/fastforest_logo.png" alt="" class="navbar-logo">
+    <img src="../images/fastforest_logo.png" alt="" class="navbar-logo light-content">
+    <img src="../images/fastforest_logo.png" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">FastForest / Home</span>
@@ -389,6 +391,10 @@ window.Quarto = {
  <span class="dropdown-text">Alwin Naiken</span></a>
   </li>  
         <li>
+    <a class="dropdown-item" href="../people/emilie_joetzjer.html">
+ <span class="dropdown-text">Emilie Joetzjer</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="../people/gabriel_destouet.html">
  <span class="dropdown-text">Gabriel Destouet</span></a>
   </li>  
@@ -412,10 +418,6 @@ window.Quarto = {
     <a class="dropdown-item" href="../people/zihan_lu.html">
  <span class="dropdown-text">Zihan Lu</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="../people/emilie_joetzjer.html">
- <span class="dropdown-text">Emilie Joetzjer</span></a>
-  </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
@@ -430,8 +432,12 @@ window.Quarto = {
  <span class="dropdown-text">ICOS website</span></a>
   </li>  
         <li>
+    <a class="dropdown-item" href="https://www.macu.de/fr-hes/check_daily_30min_data.html">
+ <span class="dropdown-text">Current data availability</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="../fr-hes/current_data.html">
- <span class="dropdown-text">Current data</span></a>
+ <span class="dropdown-text">Current data visualisation</span></a>
   </li>  
     </ul>
   </li>
@@ -501,7 +507,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-unnumbered"><div class="category" data-category="QWly">Air</div><div class="category" data-category="QWlyJTIwY29tcG9uZW50cw==">Air components</div><div class="category" data-category="QmVsb3ctY2Fub3B5JTIwcmFkaWF0aW9u">Below-canopy radiation</div><div class="category" data-category="RWRkeSUyMHN5c3RlbQ==">Eddy system</div><div class="category" data-category="TWl4ZWQlMjByYWRpYXRpb24=">Mixed radiation</div><div class="category" data-category="UHJlY2lwaXRhdGlvbg==">Precipitation</div><div class="category" data-category="UmFkaWF0aW9u">Radiation</div><div class="category" data-category="U29pbCUyMGhlYXQlMjBmbHV4">Soil heat flux</div><div class="category" data-category="U29pbCUyMG1vaXN0dXJl">Soil moisture</div><div class="category" data-category="U29pbCUyMHRlbXBlcmF0dXJl">Soil temperature</div><div class="category" data-category="VHJlZSUyMHRydW5rcw==">Tree trunks</div><div class="category" data-category="V2F0ZXIlMjB0YWJsZSUyMGRlcHRo">Water table depth</div><div class="category" data-category="V2luZA==">Wind</div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-unnumbered"><div class="category" data-category="QWly">Air</div><div class="category" data-category="RWRkeSUyMHN5c3RlbQ==">Eddy system</div><div class="category" data-category="UmFkaWF0aW9u">Radiation</div><div class="category" data-category="U29pbA==">Soil</div><div class="category" data-category="U29pbCUyMG1vaXN0JTJGdGVtcA==">Soil moist/temp</div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
@@ -528,100 +534,38 @@ Air
 <p><a href="https://www.macu.de/fr-hes/air.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/air.png"> </a> <br> <span class="listing-custom-field"></span></p>
 <span>
 </span></li>
-<li data-index="1" data-categories="QWlyJTIwY29tcG9uZW50cw==">
-<h3 class="anchored">
-Air components
-</h3>
-<p><a href="https://www.macu.de/fr-hes/air_components_composition.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/air_components_composition.png"> </a> <br> <span class="listing-custom-field"></span></p>
-<span>
-</span></li>
-<li data-index="2" data-categories="UmFkaWF0aW9u">
+<li data-index="1" data-categories="UmFkaWF0aW9u">
 <h3 class="anchored">
 Radiation
 </h3>
 <p><a href="https://www.macu.de/fr-hes/ray.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/ray.png"> </a> <br> <span class="listing-custom-field"></span></p>
 <span>
 </span></li>
-<li data-index="3" data-categories="TWl4ZWQlMjByYWRpYXRpb24=">
-<h3 class="anchored">
-Mixed radiation
-</h3>
-<p><a href="https://www.macu.de/fr-hes/ray_mixte.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/ray_mixte.png"> </a> <br> <span class="listing-custom-field"></span></p>
-<span>
-</span></li>
-<li data-index="4" data-categories="QmVsb3ctY2Fub3B5JTIwcmFkaWF0aW9u">
-<h3 class="anchored">
-Below-canopy radiation
-</h3>
-<p><a href="https://www.macu.de/fr-hes/ray_on_soil.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/ray_on_soil.png"> </a> <br> <span class="listing-custom-field"></span></p>
-<span>
-</span></li>
-<li data-index="5" data-categories="UHJlY2lwaXRhdGlvbg==">
-<h3 class="anchored">
-Precipitation
-</h3>
-<p><a href="https://www.macu.de/fr-hes/pluvio.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/pluvio.png"> </a> <br> <span class="listing-custom-field"></span></p>
-<span>
-</span></li>
-<li data-index="6" data-categories="V2luZA==">
-<h3 class="anchored">
-Wind
-</h3>
-<p><a href="https://www.macu.de/fr-hes/wind.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/wind.png"> </a> <br> <span class="listing-custom-field"></span></p>
-<span>
-</span></li>
-<li data-index="7" data-categories="U29pbCUyMGhlYXQlMjBmbHV4">
-<h3 class="anchored">
-Soil heat flux
-</h3>
-<p><a href="https://www.macu.de/fr-hes/soil_heat_flux.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/soil_heat_flux.png"> </a> <br> <span class="listing-custom-field"></span></p>
-<span>
-</span></li>
-<li data-index="8" data-categories="U29pbCUyMHRlbXBlcmF0dXJl">
-<h3 class="anchored">
-Soil temperature
-</h3>
-<p><a href="https://www.macu.de/fr-hes/soil_temperature.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/soil_temperature.png"> </a> <br> <span class="listing-custom-field"></span></p>
-<span>
-</span></li>
-<li data-index="9" data-categories="U29pbCUyMHRlbXBlcmF0dXJl">
-<h3 class="anchored">
-</h3>
-<p><a href="https://www.macu.de/fr-hes/soil_temperature_2D.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/soil_temperature_2D.png"> </a> <br> <span class="listing-custom-field"></span></p>
-<span>
-</span></li>
-<li data-index="10" data-categories="U29pbCUyMG1vaXN0dXJl">
-<h3 class="anchored">
-Soil moisture
-</h3>
-<p><a href="https://www.macu.de/fr-hes/soil_moisture.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/soil_moisture.png"> </a> <br> <span class="listing-custom-field"></span></p>
-<span>
-</span></li>
-<li data-index="11" data-categories="U29pbCUyMG1vaXN0dXJl">
-<h3 class="anchored">
-</h3>
-<p><a href="https://www.macu.de/fr-hes/soil_moisture_2D.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/soil_moisture_2D.png"> </a> <br> <span class="listing-custom-field"></span></p>
-<span>
-</span></li>
-<li data-index="12" data-categories="V2F0ZXIlMjB0YWJsZSUyMGRlcHRo">
-<h3 class="anchored">
-Water table depth
-</h3>
-<p><a href="https://www.macu.de/fr-hes/soil_water_height.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/soil_water_height.png"> </a> <br> <span class="listing-custom-field"></span></p>
-<span>
-</span></li>
-<li data-index="13" data-categories="RWRkeSUyMHN5c3RlbQ==">
+<li data-index="2" data-categories="RWRkeSUyMHN5c3RlbQ==">
 <h3 class="anchored">
 Eddy system
 </h3>
-<p><a href="https://www.macu.de/fr-hes/licor.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/licor.png"> </a> <br> <span class="listing-custom-field"></span></p>
+<p><a href="https://www.macu.de/fr-hes/flux.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/flux.png"> </a> <br> <span class="listing-custom-field"></span></p>
 <span>
 </span></li>
-<li data-index="14" data-categories="VHJlZSUyMHRydW5rcw==">
+<li data-index="3" data-categories="U29pbA==">
 <h3 class="anchored">
-Tree trunks
+Soil
 </h3>
-<p><a href="https://www.macu.de/fr-hes/tree_trunk.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/tree_trunk.png"> </a> <br> <span class="listing-custom-field"></span></p>
+<p><a href="https://www.macu.de/fr-hes/soil1.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/soil1.png"> </a> <br> <span class="listing-custom-field"></span></p>
+<span>
+</span></li>
+<li data-index="4" data-categories="U29pbCUyMG1vaXN0JTJGdGVtcA==">
+<h3 class="anchored">
+Soil moisture and temperature
+</h3>
+<p><a href="https://www.macu.de/fr-hes/soil2.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/soil2.png"> </a> <br> <span class="listing-custom-field"></span></p>
+<span>
+</span></li>
+<li data-index="5" data-categories="U29pbCUyMG1vaXN0JTJGdGVtcA==">
+<h3 class="anchored">
+</h3>
+<p><a href="https://www.macu.de/fr-hes/soil2D.png" class="listing-name"> <img src="https://www.macu.de/fr-hes/soil2D.png"> </a> <br> <span class="listing-custom-field"></span></p>
 <span>
 </span></li>
 </ul>
@@ -697,13 +641,14 @@ Tree trunks
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
