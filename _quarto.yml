@@ -50,6 +50,8 @@ website:
             href: people/group.qmd
           - text: "Alwin Naiken"
             href: people/alwin_naiken.qmd
+          - text: "Emilie Joetzjer"
+            href: people/emilie_joetzjer.qmd
           - text: "Gabriel Destouet"
             href: people/gabriel_destouet.qmd
           - text: "Matthias Cuntz"
@@ -62,14 +64,14 @@ website:
             href: people/yasin_gundesli.qmd
           - text: "Zihan Lu"
             href: people/zihan_lu.qmd
-          - text: "Emilie Joetzjer"
-            href: people/emilie_joetzjer.qmd
       - text: FR-Hes
         icon: tree
         menu:
           - text: "ICOS website"
             href: https://meta.icos-cp.eu/resources/stations/ES_FR-Hes
-          - text: "Current data"
+          - text: "Current data availability"
+            href: https://www.macu.de/fr-hes/check_daily_30min_data.html
+          - text: "Current data visualisation"
             href: fr-hes/current_data.qmd
       - text: Tools
         icon: gear

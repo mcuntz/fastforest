@@ -1,45 +1,18 @@
 - name: Air
   categories: [Air]
   href: https://www.macu.de/fr-hes/air.png
-- name: Air components
-  categories: [Air components]
-  href: https://www.macu.de/fr-hes/air_components_composition.png
 - name: Radiation
   categories: [Radiation]
   href: https://www.macu.de/fr-hes/ray.png
-- name: Mixed radiation
-  categories: [Mixed radiation]
-  href: https://www.macu.de/fr-hes/ray_mixte.png
-- name: Below-canopy radiation
-  categories: [Below-canopy radiation]
-  href: https://www.macu.de/fr-hes/ray_on_soil.png
-- name: Precipitation
-  categories: [Precipitation]
-  href: https://www.macu.de/fr-hes/pluvio.png
-- name: Wind
-  categories: [Wind]
-  href: https://www.macu.de/fr-hes/wind.png
-- name: Soil heat flux
-  categories: [Soil heat flux]
-  href: https://www.macu.de/fr-hes/soil_heat_flux.png
-- name: Soil temperature
-  categories: [Soil temperature]
-  href: https://www.macu.de/fr-hes/soil_temperature.png
-- name: ""
-  categories: [Soil temperature]
-  href: https://www.macu.de/fr-hes/soil_temperature_2D.png
-- name: Soil moisture
-  categories: [Soil moisture]
-  href: https://www.macu.de/fr-hes/soil_moisture.png
-- name: ""
-  categories: [Soil moisture]
-  href: https://www.macu.de/fr-hes/soil_moisture_2D.png
-- name: Water table depth
-  categories: [Water table depth]
-  href: https://www.macu.de/fr-hes/soil_water_height.png
 - name: Eddy system
   categories: [Eddy system]
-  href: https://www.macu.de/fr-hes/licor.png
-- name: Tree trunks
-  categories: [Tree trunks]
-  href: https://www.macu.de/fr-hes/tree_trunk.png
+  href: https://www.macu.de/fr-hes/flux.png
+- name: Soil
+  categories: [Soil]
+  href: https://www.macu.de/fr-hes/soil1.png
+- name: Soil moisture and temperature
+  categories: [Soil moist/temp]
+  href: https://www.macu.de/fr-hes/soil2.png
+- name: ""
+  categories: [Soil moist/temp]
+  href: https://www.macu.de/fr-hes/soil2D.png
