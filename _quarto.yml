@@ -69,8 +69,12 @@ website:
         menu:
           - text: "ICOS website"
             href: https://meta.icos-cp.eu/resources/stations/ES_FR-Hes
-          - text: "Current data availability"
-            href: https://www.macu.de/fr-hes/check_daily_30min_data.html
+          - text: "Current data availability check"
+            href: https://www.macu.de/fr-hes/check_daily_available.html
+          - text: "Current data NaN check"
+            href: https://www.macu.de/fr-hes/check_daily_nan.html
+          - text: "Current data range check"
+            href: https://www.macu.de/fr-hes/check_minmax.html
           - text: "Current data visualisation"
             href: fr-hes/current_data.qmd
       - text: Tools
