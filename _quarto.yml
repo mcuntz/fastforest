@@ -74,7 +74,7 @@ website:
           - text: "Current data NaN check"
             href: https://www.macu.de/fr-hes/check_daily_nan.html
           - text: "Current data range check"
-            href: https://www.macu.de/fr-hes/check_minmax.html
+            href: https://www.macu.de/fr-hes/check_daily_minmax.html
           - text: "Current data visualisation"
             href: fr-hes/current_data.qmd
       - text: Tools
