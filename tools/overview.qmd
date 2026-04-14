@@ -26,7 +26,7 @@
 :::
 
 ::: {#second-column}
-**ncvue** is a minimal GUI for a quick view of netCDF files. It is aiming to be a drop-in replacement for [nview](http://meteora.ucsd.edu/~pierce/ncview_home_page.html) and [panoply](https://www.giss.nasa.gov/tools/panoply/), being slightly more general than ncview targeting maps but providing animations, zooming and panning capabilities unlike panoply. If **ncvue** is used with maps, it supports mostly structured grids, more precisely the grids supported by [cartopy](https://scitools.org.uk/cartopy/docs/latest/).
+**ncvue** is a minimal GUI for a quick view of netCDF files. It is aiming to be a drop-in replacement for [ncview](https://cirrus.ucsd.edu/ncview/) and [panoply](https://www.giss.nasa.gov/tools/panoply/), being slightly more general than ncview targeting maps but providing animations, zooming and panning capabilities unlike panoply. If **ncvue** is used with maps, it supports mostly structured grids, more precisely the grids supported by [cartopy](https://scitools.org.uk/cartopy/docs/latest/).
 
 **ncvue** is a Python script that can be called from within Python or as a command line tool. It is not supposed to produce publication-ready plots but rather provide a quick overview of the netCDF file(s).
 :::
@@ -124,7 +124,7 @@ The post-processing functionality for Eddy flux data is similar to the R-package
 ::: {#second-column}
 **pyeee** is a Python library for performing parameter screening of computational models. It uses Morris' method of Elementary Effects and its extension, the so-called Efficient or Sequential Elementary Effects published by
 
-- Cuntz, Mai *et al.* (2015) Computationally inexpensive identification of noninformative model parameters by sequential screening, *Water Resources Research* 51, 6417-6441, doi: [10.1002/2015WR016907](http://doi.org/10.1002/2015WR016907).
+- Cuntz, Mai *et al.* (2015) Computationally inexpensive identification of noninformative model parameters by sequential screening, *Water Resources Research* 51, 6417-6441, doi: [10.1002/2015WR016907](https://doi.org/10.1002/2015WR016907).
 
 **pyeee** can be used with Python functions but also with external programs, using for example the library [partialwrap](https://mcuntz.github.io/partialwrap/). Function evaluation can be distributed with Python's [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) module or via the Message Passing Interface ([MPI](https://bitbucket.org/mpi4py/mpi4py)).
 :::
