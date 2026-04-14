@@ -1,1 +1,1 @@
-Sitemap: http://mcuntz.github.io/fastforest/sitemap.xml
+Sitemap: https://mcuntz.github.io/fastforest/sitemap.xml
