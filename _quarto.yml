@@ -12,6 +12,13 @@ website:
   site-url: https://mcuntz.github.io/fastforest/
   repo-url: https://github.com/mcuntz/fastforest
   favicon: images/fastforest_logo.png
+  ## Announcement bar
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "**PhD position available** - see [PhD_SIF_en.pdf](https:www.macu.de/extra/PhD_SIF_en.pdf)"
+    type: primary
+    position: below-navbar
   #  sidebar: not nice
   #    contents: auto
   ## Navbar menu
