@@ -16,7 +16,7 @@ website:
   announcement:
     icon: info-circle
     dismissable: true
-    content: "**PhD position available** - see [PhD_SIF_en.pdf](https:www.macu.de/extra/PhD_SIF_en.pdf)"
+    content: "**PhD position available** - see [PhD_SIF_long_en.pdf](images/PhD_SIF_long_en.pdf)"
     type: primary
     position: below-navbar
   #  sidebar: not nice
